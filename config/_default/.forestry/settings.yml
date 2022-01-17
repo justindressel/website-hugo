@@ -5,22 +5,22 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: people
+  path: content/people
   label: People
   create: all
   match: "**/*"
 - type: directory
-  path: home
+  path: content/home
   label: Home
   create: all
   match: "**/*"
 - type: directory
-  path: event
+  path: content/event
   label: Event
   create: all
   match: "**/*"
 - type: directory
-  path: contact
+  path: content/contact
   label: Contact
   create: all
   match: "**/*"
