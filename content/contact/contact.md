@@ -30,3 +30,10 @@ design:
   
 # Text goes below yaml brackets
 ---
+
+**Justin Dressel, Ph.D.**
+Associate Professor of Physics
+[Schmid College of Science and Technology](http://www.chapman.edu/scst)
+[Institute for Quantum Studies](http://quantum.chapman.edu/)
+[Chapman University](http://www.chapman.edu)
+One University Drive, Orange, California 92866, USA
