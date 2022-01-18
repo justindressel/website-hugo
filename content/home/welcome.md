@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   Spin Group
-hero_media: group-meeting-2-5-21.jpg
+hero_media: group-meeting-2-5-21.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,6 +19,5 @@ design:
 
 <br>
 
-The **Spin Group** is a research team led by **Justin Dressel, Ph.D.** focusing on *Quantum Information*,  
-*Quantum Computation*,   
-and *Quantum Foundations*.
+The **Spin Group** is a research team led by **Justin Dressel, Ph.D.** focusing on  
+*Quantum Information*, *Quantum Computation*, and *Quantum Foundations*.
