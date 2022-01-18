@@ -7,8 +7,8 @@
 
 theme: minimal
 day_night: true
-font: native
-font_size: M
+font: rose
+font_size: S
 
 # SEO
 
@@ -51,8 +51,8 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
-  highlight_active_link: false
+  show_search: false
+  highlight_active_link: true
 
 # Localization
 
@@ -62,7 +62,7 @@ address_format: en-us
 
 # Site features
 
-highlight: false
+highlight: true
 math: true
 diagram: true
 privacy_pack: false
