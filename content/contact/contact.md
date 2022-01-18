@@ -27,6 +27,6 @@ content:
 
 design:
   columns: '1'
+  
+# Text goes below yaml brackets
 ---
-
-# Text goes here
