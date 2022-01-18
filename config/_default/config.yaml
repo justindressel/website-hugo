@@ -5,7 +5,7 @@
 
 title: Spin Group # Website name
 baseurl: '' # Website URL
-copyright: '© {year} Justin Dressel, Made with [Hugo Wowchemy](https://wowchemy.com)' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Justin Dressel, using [Hugo Wowchemy](https://wowchemy.com)' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
