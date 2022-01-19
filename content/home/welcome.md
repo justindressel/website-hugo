@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   Spin Group
-hero_media: qubit_drag.png
+hero_media: group-meeting-2-5-21.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
