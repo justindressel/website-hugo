@@ -10,9 +10,11 @@ role: Associate Professor of Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Chapman University, Schmid College of Science and Engineering
+- name: Chapman University
+  url: "https://www.chapman.edu"
+- name: Schmid College of Science and Engineering
   url: "https://www.chapman.edu/scst"
-- name: Chapman University, Institute for Quantum Studies
+- name: Institute for Quantum Studies
   url: "https://quantum.chapman.edu"
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,6 +24,8 @@ interests:
 - Quantum Information
 - Quantum Computation
 - Quantum Foundations
+- Geometric (Clifford) Algebra
+- Machine Learning
 
 education:
   courses:
@@ -31,10 +35,10 @@ education:
   - course: M.A. in Physics
     institution: University of Rochester
     year: 2009
-  - course: B.S. in Physics (*Summa Cum Laude*)
+  - course: B.S. in Physics 
     institution: New Mexico Institute of Mining and Technology
     year: 2005
-  - course: B.S. in Mathematics (*Summa Cum Laude*)
+  - course: B.S. in Mathematics 
     institution: New Mexico Institute of Mining and Technology
     year: 2005
 
