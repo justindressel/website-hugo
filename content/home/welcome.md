@@ -19,4 +19,6 @@ design:
 
 <br>
 
-The **Spin Group** is a research team led by **Justin Dressel, Ph.D.** focusing on *Quantum Information*, *Quantum Computation*, and *Quantum Foundations*.
+The **Spin Group** is led by **Prof. Justin Dressel** at Chapman University.
+
+We research *Quantum Information*, *Quantum Computation*, and *Quantum Foundations*, as well as adjacent topics like *Geometric Algebra* and the uses of *Machine Learning* in physics.
