@@ -9,7 +9,6 @@ weight: 10  # Order that this section will appear.
 title: |
   Spin Group
 hero_media: qubit_drag.png
-  caption: '[PRL 120, 020505 (2018)](https://doi.org/10.1103/PhysRevLett.120.020505)'
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
