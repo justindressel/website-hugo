@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: images/group-meeting-2-5-21.jpg
+    image: group-meeting-2-5-21.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
