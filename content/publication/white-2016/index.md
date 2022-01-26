@@ -11,20 +11,20 @@ authors:
 - Justin Dressel
 - Julian Kelly
 - Rami Barends
-- E Jeffrey
+- Evan Jeffrey
 - Daniel Sank
 - Anthony Megrant
 - B Campbell
 - Yu Chen
-- Z Chen
-- B Chiaro
+- Zijun Chen
+- Ben Chiaro
 - A Dunsworth
-- I-C Hoi
-- C Neill
+- Io-Chun Hoi
+- Charles Neill
 - Peter J J O'Malley
 - Pedram Roushan
-- A Vainsencher
-- J Wenner
+- Amit Vainsencher
+- Jim Wenner
 - Alexander N Korotkov
 - John M Martinis
 tags: []
@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T00:51:33.734779Z'
+publishDate: '2022-01-26T01:44:01.243918Z'
 publication_types:
 - '2'
 abstract: ''

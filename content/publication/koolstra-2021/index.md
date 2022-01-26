@@ -12,7 +12,7 @@ authors:
 - Karthik Siva
 - Sacha Greenfield
 - William P Livingston
-- Akem Hashim
+- Akel Hashim
 - Ravi K Naik
 - John M Kreikebaum
 - Kevin P O'Brien
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T00:51:27.144460Z'
+publishDate: '2022-01-26T01:43:54.976259Z'
 publication_types:
 - '2'
 abstract: ''
