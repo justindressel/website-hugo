@@ -53,6 +53,7 @@ abstract: We revisit the definitions of error and disturbance recently used in e
   as the traditional Heisenberg relation.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.89.022106
+url_pdf: papers/PhysRevA.89.022106.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1308.4853

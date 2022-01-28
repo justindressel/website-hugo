@@ -51,6 +51,7 @@ abstract: We theoretically investigate a generalized “which-path” measuremen
   conditioned averages can produce both weak and detector-dependent semiweak values.
 publication: '*Physical Review B*'
 doi: 10.1103/PhysRevB.85.045320
+url_pdf: papers/PhysRevB.85.045320.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1105.2587

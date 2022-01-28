@@ -49,6 +49,7 @@ abstract: 'We analyze the continuous measurement of two non-commuting observable
   the spin.'
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.94.062119
+url_pdf: papers/PhysRevA.94.062119.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1606.07934

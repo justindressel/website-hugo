@@ -59,6 +59,7 @@ abstract: "Two topics, evolving rapidly in separate fields, were combined recent
   \ theory and motivates immediate-future weak-measurement challenges."
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.97.042105
+url_pdf: papers/PhysRevA.97.042105.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1704.01971

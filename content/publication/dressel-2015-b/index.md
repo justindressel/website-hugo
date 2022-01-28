@@ -54,6 +54,7 @@ abstract: We present a comprehensive introduction to spacetime algebra that emph
   relativistic objects like the electromagnetic field.
 publication: '*Physics Reports*'
 doi: 10.1016/j.physrep.2015.06.001
+url_pdf: papers/PhysRep.589.1.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1411.5002

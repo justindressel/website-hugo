@@ -46,7 +46,10 @@ abstract: 'Out-of-time-ordered correlators (OTOCs) have received considerable re
   trapped ions.'
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.122.040404
+url_pdf: papers/PhysRevLett.122.040404.pdf
 links:
+- name: Supplement
+  url: papers/PhysRevLett.122.040404.supplement.pdf
 - name: arXiv
   url: https://arxiv.org/abs/1806.09637
 - name: URL

@@ -46,6 +46,7 @@ abstract: Out-of-time-ordered correlators (OTOCs) have been proposed as a tool t
   dynamical disturbance.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.100.062336
+url_pdf: papers/PhysRevA.100.062336.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1907.10778

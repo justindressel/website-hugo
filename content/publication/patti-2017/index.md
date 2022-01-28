@@ -48,6 +48,7 @@ abstract: The state of a continuously monitored qubit evolves stochastically, ex
   compared to the feedback delay yields the best stabilization.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.96.022311
+url_pdf: papers/PhysRevA.96.022311.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1705.03878

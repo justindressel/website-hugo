@@ -60,6 +60,7 @@ abstract: "We present a detailed motivation for and definition of the contextual
   \ for the derivation to hold."
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.85.022123
+url_pdf: papers/PhysRevA.85.022123.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1110.0418

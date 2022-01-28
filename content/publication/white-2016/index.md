@@ -62,7 +62,10 @@ abstract: Weak measurement has provided new insight into the nature of quantum m
   of certainty.
 publication: '*npj Quantum Information*'
 doi: 10.1038/npjqi.2015.22
+url_pdf: papers/npjqi2016.2.15022.pdf
 links:
+- name: Supplement
+  url: papers/npjqi2016.2.15022.supplement.pdf
 - name: arXiv
   url: https://arxiv.org/abs/1504.02707
 - name: URL

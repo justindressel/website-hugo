@@ -49,6 +49,7 @@ abstract: Using circuit QED, we consider the measurement of a superconducting tr
   using a hybrid phase-Fock-space description.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.94.012347
+url_pdf: papers/PhysRevA.94.012347.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1606.04204

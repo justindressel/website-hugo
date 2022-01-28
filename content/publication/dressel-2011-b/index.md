@@ -46,6 +46,7 @@ abstract: We review and clarify the sufficient conditions for uniquely defining 
   conditions for the provided theorem.
 publication: '*Journal of Physics A: Mathematical and Theoretical*'
 doi: 10.1088/1751-8113/45/1/015304
+url_pdf: papers/JPhysA.45.015304.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1106.1871

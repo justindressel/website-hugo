@@ -42,6 +42,7 @@ abstract: We improve the precision of the interferometric weak-value-based beam 
   this proposal, using a transverse beam filter and different cavity designs.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.114.170801
+url_pdf: papers/PhysRevLett.114.170801.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1504.08210

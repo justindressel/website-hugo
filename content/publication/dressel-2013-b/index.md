@@ -49,6 +49,7 @@ abstract: We consider the use of cyclic weak measurements to improve the sensiti
   power increase, while maintaining an amplified deflection.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.88.023821
+url_pdf: papers/PhysRevA.88.023821.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1305.4520

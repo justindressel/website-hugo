@@ -44,6 +44,7 @@ abstract: By combining the postulates of macrorealism with Bell-locality, we der
   systems are poised to implement this test.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.89.012125
+url_pdf: papers/PhysRevA.89.012125.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1310.6947

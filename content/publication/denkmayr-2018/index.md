@@ -46,6 +46,7 @@ abstract: In their original framework weak values must be measured by weak measu
   given that strong interactions outperform weak ones both for precision and accuracy.
 publication: '*Physica B: Condensed Matter*'
 doi: 10.1016/j.physb.2018.04.014
+url_pdf: papers/jphysb.2018.04.014.pdf
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0921452618302722

@@ -43,7 +43,10 @@ abstract: We present a stochastic path integral formalism for continuous quantum
   regime.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.88.042110
+url_pdf: papers/PhysRevA.88.042110.pdf
 links:
+- name: Supplement
+  url: papers/PhysRevA.88.042110.supplement.pdf
 - name: arXiv
   url: https://arxiv.org/abs/1305.5201
 - name: URL

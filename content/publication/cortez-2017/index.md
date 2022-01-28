@@ -50,6 +50,7 @@ abstract: We investigate the determination of a Hamiltonian parameter in a quant
   to drift as the estimation duration is varied.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.95.012314
+url_pdf: papers/PhysRevA.95.012314.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1606.01407

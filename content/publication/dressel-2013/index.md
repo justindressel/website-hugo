@@ -49,6 +49,7 @@ abstract: We demonstrate that quantum instruments can provide a unified operatio
   two-vector approach of Aharonov emphet al. to any realistic laboratory situation.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.88.022107
+url_pdf: papers/PhysRevA.88.022107.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1305.2816

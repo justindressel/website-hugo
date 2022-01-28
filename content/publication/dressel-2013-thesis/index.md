@@ -50,6 +50,7 @@ abstract: This thesis presents a general algebraic approach for indirectly measu
   as a general feature in conditioned observable measurements using a weakly correlated
   detector.
 publication: '*Ph.D. Thesis: University of Rochester*'
+url_pdf: papers/jdressel-thesis.pdf
 links:
 - name: URL
   url: https://search.proquest.com/openview/5190cd1885b89b941104f090e9419a11/1?pq-origsite=gscholar&cbl=18750

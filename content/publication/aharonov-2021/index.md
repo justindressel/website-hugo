@@ -41,6 +41,7 @@ abstract: A recent criticism by Kunstatter et al. [Phys. Lett. A 384, 126686 (20
   principle with pre- and postselection is clarified.
 publication: '*Physics Letters A*'
 doi: 10.1016/j.physleta.2021.127287
+url_pdf: papers/JPhysLetA.2021.127287.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2103.09570

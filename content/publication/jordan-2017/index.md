@@ -46,6 +46,7 @@ abstract: We examine the time reversal symmetry of quantum measurement sequences
   forward sequence is more probable than the backward sequence.
 publication: '*AIP Conference Proceedings*'
 doi: 10.1063/1.4982767
+url_pdf: papers/AIPConfProc.1841.020003.pdf
 links:
 - name: URL
   url: https://aip.scitation.org/doi/abs/10.1063/1.4982767

@@ -47,7 +47,10 @@ abstract: The quantum Zeno effect is the suppression of Hamiltonian evolution by
   measurements and rapid state purification.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.120.020505
+url_pdf: papers/PhysRevLett.120.020505.pdf
 links:
+- name: Supplement
+  url: papers/PhysRevLett.120.020505.supplement.pdf
 - name: arXiv
   url: https://arxiv.org/abs/1706.08577
 - name: URL

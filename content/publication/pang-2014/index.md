@@ -49,6 +49,7 @@ abstract: Large weak values have been used to amplify the sensitivity of a linea
   entangled qubits.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.113.030401
+url_pdf: papers/PhysRevLett.113.030401.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1401.5887

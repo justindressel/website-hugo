@@ -42,6 +42,7 @@ abstract: We introduce contextual values as a generalization of the eigenvalues 
   and theoretical results.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.104.240401
+url_pdf: papers/PhysRevLett.104.240401.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/0911.4474

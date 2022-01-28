@@ -49,6 +49,7 @@ abstract: We examine the results of the paper “Precision metrology using weak 
   a similar effect with no system/meter entanglement.
 publication: '*Quantum Studies: Mathematics and Foundations*'
 doi: 10.1007/s40509-015-0036-8
+url_pdf: papers/QuantStud.2.5.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1409.3488

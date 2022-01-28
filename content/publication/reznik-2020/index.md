@@ -44,6 +44,7 @@ abstract: 'We show that in the mathematical framework of the quantum theory the 
   circuit with transmon qubits.'
 publication: '*Physical Review Research*'
 doi: 10.1103/PhysRevResearch.2.023004
+url_pdf: papers/PhysRevResearch.2.023004.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2002.06990

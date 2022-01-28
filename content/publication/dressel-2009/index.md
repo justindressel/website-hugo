@@ -42,6 +42,7 @@ abstract: We explore the nature of the classical propagation of light through me
   heuristic and rigorous derivations of this effect are given.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.79.013834
+url_pdf: papers/PhysRevA.79.013834.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/0810.4849

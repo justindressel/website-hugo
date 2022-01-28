@@ -44,7 +44,10 @@ abstract: We investigate the statistical arrow of time for a quantum system bein
   of each other.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.119.220507
+url_pdf: papers/PhysRevLett.119.220507.pdf
 links:
+- name: Supplement
+  url: papers/PhysRevLett.119.220507.supplement.pdf
 - name: arXiv
   url: https://arxiv.org/abs/1610.03818
 - name: URL

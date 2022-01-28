@@ -54,6 +54,7 @@ abstract: We review and re-examine the description and separation of the spin an
   Maxwell fields in both quantum-mechanical and field-theory approaches.
 publication: '*New Journal of Physics*'
 doi: 10.1088/1367-2630/16/9/093037
+url_pdf: papers/NewJPhys.16.093037.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1404.5486

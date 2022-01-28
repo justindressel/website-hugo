@@ -45,6 +45,7 @@ abstract: We generalize the derivation of Leggett-Garg inequalities to systemati
   weak values.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.106.040402
+url_pdf: papers/PhysRevLett.106.040402.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1101.4917

@@ -43,6 +43,7 @@ abstract: 'We describe a method to perform any generalized purity-preserving mea
   for multiple-outcome generalized measurements.'
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.90.032302
+url_pdf: papers/PhysRevA.90.032302.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1312.1319

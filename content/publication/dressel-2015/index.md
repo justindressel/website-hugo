@@ -44,6 +44,7 @@ abstract: Weak values arise experimentally as conditioned averages of weak (nois
   unless they can also simulate other quantum interference phenomena.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.91.032116
+url_pdf: papers/PhysRevA.91.032116.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1410.0943

@@ -49,6 +49,7 @@ abstract: Monitoring a quantum observable continuously in time produces a stocha
   outperform estimates made using full knowledge of the causal quantum state.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.96.062110
+url_pdf: papers/PhysRevA.96.062110.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1708.04362

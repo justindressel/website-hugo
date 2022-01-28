@@ -48,6 +48,7 @@ abstract: In modern circuit QED architectures, superconducting transmon qubits a
   fidelity in a manner reminiscent of energy relaxation processes.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.92.052306
+url_pdf: papers/PhysRevA.92.052306.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1506.06321

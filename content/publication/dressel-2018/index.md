@@ -43,6 +43,7 @@ abstract: For systems of controllable qubits, we provide a method for experiment
   superconducting transmon implementations.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.98.012132
+url_pdf: papers/PhysRevA.98.012132.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1805.00667

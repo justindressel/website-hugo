@@ -49,6 +49,7 @@ abstract: A novel method was recently proposed and experimentally realized for c
   of quantum systems.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.118.010402
+url_pdf: papers/PhysRevLett.118.010402.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1604.04102

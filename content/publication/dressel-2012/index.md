@@ -52,6 +52,7 @@ abstract: Unlike the real part of the generalized weak value of an observable, w
   involves the decohered initial state.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.85.012107
+url_pdf: papers/PhysRevA.85.012107.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1112.3986

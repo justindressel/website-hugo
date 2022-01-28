@@ -49,6 +49,7 @@ abstract: Since its introduction 25 years ago, the quantum weak value has gradua
   each of these applications is used.
 publication: '*Reviews of Modern Physics*'
 doi: 10.1103/RevModPhys.86.307
+url_pdf: papers/RevModPhys.86.307.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1305.7154

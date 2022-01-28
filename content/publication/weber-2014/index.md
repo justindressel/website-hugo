@@ -56,6 +56,7 @@ abstract: A central feature of quantum mechanics is that a measurement result is
   processing.
 publication: '*Nature*'
 doi: 10.1038/nature13559
+url_pdf: papers/arxiv.1403.4992v1.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1403.4992

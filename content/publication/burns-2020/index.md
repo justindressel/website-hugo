@@ -52,7 +52,7 @@ abstract: We construct a novel Lagrangian representation of acoustic field theor
   of the apparent spacetime symmetries inherent to acoustic fields.
 publication: '*New Journal of Physics*'
 doi: 10.1088/1367-2630/ab7f91
-url_pdf: "papers/NewJPhys.22.053050.pdf"
+url_pdf: papers/NewJPhys.22.053050.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1912.10522

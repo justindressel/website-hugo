@@ -45,6 +45,7 @@ abstract: By generalizing the quantum weak measurement protocol to the case of q
   individual excitations of the field.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.112.110407
+url_pdf: papers/PhysRevLett.112.110407.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1308.4831

@@ -50,7 +50,10 @@ abstract: We present a set of practical benchmarks for N-qubit arrays that econo
   showing ample room for improvement in chip performance.
 publication: '*npj Quantum Information*'
 doi: 10.1038/s41534-019-0181-8
+url_pdf: papers/npjqi2019.5.66.pdf
 links:
+- name: Supplement
+  url: papers/npjqi2019.5.66.supplement.pdf
 - name: arXiv
   url: https://arxiv.org/abs/1812.07821
 - name: URL
