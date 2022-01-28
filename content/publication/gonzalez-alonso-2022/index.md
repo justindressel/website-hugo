@@ -63,12 +63,4 @@ publication: ''
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2201.08175
-url_pdf: http://arxiv.org/pdf/2201.08175
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 ---
