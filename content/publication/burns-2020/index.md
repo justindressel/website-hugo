@@ -53,7 +53,8 @@ abstract: We construct a novel Lagrangian representation of acoustic field theor
 publication: '*New Journal of Physics*'
 doi: 10.1088/1367-2630/ab7f91
 links:
-- url_pdf: "NewJPhys.22.053050.pdf"
+- name: PDF
+  url_pdf: "NewJPhys.22.053050.pdf"
 - name: arXiv
   url: https://arxiv.org/abs/1912.10522
 - name: URL
