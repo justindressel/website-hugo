@@ -31,13 +31,20 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:02.141845Z'
+publishDate: '2022-01-28T00:18:28.345847Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: We improve the precision of the interferometric weak-value-based beam deflection
+  measurement by introducing a power recycling mirror, creating a resonant cavity.
+  This results in all the light exiting to the detector with a large deflection, thus
+  eliminating the inefficiency of the rare postselection. The signal-to-noise ratio
+  of the deflection is itself magnified by the weak value. We discuss ways to realize
+  this proposal, using a transverse beam filter and different cavity designs.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.114.170801
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/1504.08210
 - name: URL
   url: http://dx.doi.org/10.1103/PhysRevLett.114.170801
 ---

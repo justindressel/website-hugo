@@ -29,10 +29,18 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:03.631928Z'
+publishDate: '2022-01-28T00:18:29.996849Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'We describe a method to perform any generalized purity-preserving measurement
+  of a qubit with techniques tailored to superconducting systems. First, we consider
+  two methods for realizing a two-outcome partial projection: using a thresholded
+  continuous measurement in the circuit QED setup and using an indirect ancilla qubit
+  measurement. Second, we decompose an arbitrary purity-preserving two-outcome measurement
+  into single-qubit unitary rotations and a partial projection. Third, we systematically
+  reduce any multiple-outcome measurement to a sequence of such two-outcome measurements
+  and unitary operations. Finally, we consider how to define suitable fidelity measures
+  for multiple-outcome generalized measurements.'
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.90.032302
 links:

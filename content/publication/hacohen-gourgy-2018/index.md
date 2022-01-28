@@ -31,10 +31,20 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:43:58.278536Z'
+publishDate: '2022-01-28T00:18:24.371508Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: The quantum Zeno effect is the suppression of Hamiltonian evolution by repeated
+  observation, which pins the system to an eigenstate of the measurement observable.
+  Using measurement alone, control of the state can be achieved if the observable
+  is slowly varied, so that the state tracks the now time-dependent eigenstate. We
+  demonstrate this using a circuit-QED readout technique that couples to a dynamically
+  controllable observable of a qubit. Continuous monitoring of the measurement record
+  allows us to detect an escape from the eigenstate, thus serving as a built-in form
+  of error detection. We show this by postselecting on realizations with high fidelity
+  with respect to the target state. Our dynamical measurement operator technique offers
+  a new tool for numerous forms of quantum feedback protocols, including adaptive
+  measurements and rapid state purification.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.120.020505
 links:

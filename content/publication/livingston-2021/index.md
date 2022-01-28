@@ -32,10 +32,27 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:43:55.279238Z'
+publishDate: '2022-01-28T00:18:21.434077Z'
 publication_types:
-- '2'
-abstract: ''
+- '3'
+abstract: The storage and processing of quantum information are susceptible to external
+  noise, resulting in computational errors that are inherently continuous A powerful
+  method to suppress these effects is to use quantum error correction. Typically,
+  quantum error correction is executed in discrete rounds where errors are digitized
+  and detected by projective multi-qubit parity measurements. These stabilizer measurements
+  are traditionally realized with entangling gates and projective measurement on ancillary
+  qubits to complete a round of error correction. However, their gate structure makes
+  them vulnerable to errors occurring at specific times in the code and errors on
+  the ancilla qubits. Here we use direct parity measurements to implement a continuous
+  quantum bit-flip correction code in a resource-efficient manner, eliminating entangling
+  gates, ancilla qubits, and their associated errors. The continuous measurements
+  are monitored by an FPGA controller that actively corrects errors as they are detected.
+  Using this method, we achieve an average bit-flip detection efficiency of up to
+  91%. Furthermore, we use the protocol to increase the relaxation time of the protected
+  logical qubit by a factor of 2.7 over the relaxation times of the bare comprising
+  qubits. Our results showcase resource-efficient stabilizer measurements in a multi-qubit
+  architecture and demonstrate how continuous error correction codes can address challenges
+  in realizing a fault-tolerant system.
 publication: ''
 links:
 - name: arXiv

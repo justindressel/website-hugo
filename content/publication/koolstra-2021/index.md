@@ -40,10 +40,24 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:43:54.976259Z'
+publishDate: '2022-01-28T00:18:21.122551Z'
 publication_types:
-- '2'
-abstract: ''
+- '3'
+abstract: Weak measurements of a superconducting qubit produce noisy voltage signals
+  that are weakly correlated with the qubit state. To recover individual quantum trajectories
+  from these noisy signals, traditional methods require slow qubit dynamics and substantial
+  prior information in the form of calibration experiments. Monitoring rapid qubit
+  dynamics, e.g. during quantum gates, requires more complicated methods with increased
+  demand for prior information. Here, we experimentally demonstrate an alternative
+  method for accurately tracking rapidly driven superconducting qubit trajectories
+  that uses a Long-Short Term Memory (LSTM) artificial neural network with minimal
+  prior information. Despite few training assumptions, the LSTM produces trajectories
+  that include qubit-readout resonator correlations due to a finite detection bandwidth.
+  In addition to revealing rotated measurement eigenstates and a reduced measurement
+  rate in agreement with theory for a fixed drive, the trained LSTM also correctly
+  reconstructs evolution for an unknown drive with rapid modulation. Our work enables
+  new applications of weak measurements with faster or initially unknown qubit dynamics,
+  such as the diagnosis of coherent errors in quantum gates.
 publication: ''
 links:
 - name: arXiv

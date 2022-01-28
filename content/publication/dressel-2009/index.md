@@ -30,13 +30,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:09.034565Z'
+publishDate: '2022-01-28T00:18:35.402374Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: We explore the nature of the classical propagation of light through media
+  with strong frequency-dependent dispersion in the presence of a gravitational field.
+  In the weak field limit, gravity causes a redshift of the optical frequency, which
+  the slow-light medium converts into a spatially varying index of refraction. This
+  results in the bending of a light ray in the medium. We further propose experimental
+  techniques to amplify and detect the phenomenon using weak value measurements. Independent
+  heuristic and rigorous derivations of this effect are given.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.79.013834
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/0810.4849
 - name: URL
   url: https://link.aps.org/doi/10.1103/PhysRevA.79.013834
 ---

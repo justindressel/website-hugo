@@ -31,13 +31,28 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:43:59.755178Z'
+publishDate: '2022-01-28T00:18:26.007866Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: We investigate the determination of a Hamiltonian parameter in a quantum
+  system undergoing continuous measurement. We demonstrate a computationally rapid
+  yet statistically optimal method to estimate an unknown and possibly time-dependent
+  parameter, where we maximize the likelihood of the observed stochastic readout.
+  By dealing directly with the raw measurement record rather than the quantum state
+  trajectories, the estimation can be performed while the data is being acquired,
+  permitting continuous tracking of the parameter during slow drifts in real time.
+  Furthermore, we incorporate realistic nonidealities, such as decoherence processes
+  and measurement inefficiency. As an example, we focus on estimating the value of
+  the Rabi frequency of a continuously measured qubit, and compare maximum likelihood
+  estimation to a simpler fast Fourier transform. Using this example, we discuss how
+  the quality of the estimation depends on both the strength and duration of the measurement;
+  we also discuss the trade-off between the accuracy of the estimate and the sensitivity
+  to drift as the estimation duration is varied.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.95.012314
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/1606.01407
 - name: URL
   url: https://link.aps.org/doi/10.1103/PhysRevA.95.012314
 ---

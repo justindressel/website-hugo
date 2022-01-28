@@ -31,13 +31,30 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:43:55.895321Z'
+publishDate: '2022-01-28T00:18:22.018127Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: We construct a novel Lagrangian representation of acoustic field theory
+  that describes the local vector properties of longitudinal (curl-free) acoustic
+  fields. In particular, this approach accounts for the recently-discovered nonzero
+  spin angular momentum density in inhomogeneous sound fields in fluids or gases.
+  The traditional acoustic Lagrangian representation with a scalar potential is unable
+  to describe such vector properties of acoustic fields adequately, which are however
+  observable via local radiation forces and torques on small probe particles. By introducing
+  a displacement vector potential analogous to the electromagnetic vector potential,
+  we derive the appropriate canonical momentum and spin densities as conserved Noether
+  currents. The results are consistent with recent theoretical analyses and experiments.
+  Furthermore, by an analogy with dual-symmetric electromagnetic field theory that
+  combines electric- and magnetic-potential representations, we put forward an acoustic
+  spinor representation combining the scalar and vector representations. This approach
+  also includes naturally coupling to sources. The strong analogies between electromagnetism
+  and acoustics suggest further productive inquiry, particularly regarding the nature
+  of the apparent spacetime symmetries inherent to acoustic fields.
 publication: '*New Journal of Physics*'
 doi: 10.1088/1367-2630/ab7f91
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/1912.10522
 - name: URL
   url: https://iopscience.iop.org/article/10.1088/1367-2630/ab7f91/meta
 ---

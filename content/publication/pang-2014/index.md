@@ -29,13 +29,29 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:04.226646Z'
+publishDate: '2022-01-28T00:18:30.587756Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Large weak values have been used to amplify the sensitivity of a linear
+  response signal for detecting changes in a small parameter, which has also enabled
+  a simple method for precise parameter estimation. However, producing a large weak
+  value requires a low postselection probability for an ancilla degree of freedom,
+  which limits the utility of the technique. We propose an improvement to this method
+  that uses entanglement to increase the efficiency. We show that by entangling and
+  postselecting n ancillas, the postselection probability can be increased by a factor
+  of n while keeping the weak value fixed (compared to n uncorrelated attempts with
+  one ancilla), which is the optimal scaling with n that is expected from quantum
+  metrology. Furthermore, we show the surprising result that the quantum Fisher information
+  about the detected parameter can be almost entirely preserved in the postselected
+  state, which allows the sensitive estimation to approximately saturate the relevant
+  quantum Cramér-Rao bound. To illustrate this protocol we provide simple quantum
+  circuits that can be implemented using current experimental realizations of three
+  entangled qubits.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.113.030401
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/1401.5887
 - name: URL
   url: http://dx.doi.org/10.1103/PhysRevLett.113.030401
 ---

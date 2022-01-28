@@ -29,10 +29,17 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:08.732229Z'
+publishDate: '2022-01-28T00:18:35.105902Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: We introduce contextual values as a generalization of the eigenvalues of
+  an observable that takes into account both the system observable and a general measurement
+  procedure. This technique leads to a natural definition of a general conditioned
+  average that converges uniquely to the quantum weak value in the minimal disturbance
+  limit. As such, we address the controversy in the literature regarding the theoretical
+  consistency of the quantum weak value by providing a more general theoretical framework
+  and giving several examples of how that framework relates to existing experimental
+  and theoretical results.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.104.240401
 links:

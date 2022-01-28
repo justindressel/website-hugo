@@ -48,10 +48,18 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:01.243918Z'
+publishDate: '2022-01-28T00:18:27.466745Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Weak measurement has provided new insight into the nature of quantum measurement
+  by demonstrating the ability to extract average state information without fully
+  projecting the system. For single qubit measurements, this partial projection has
+  been demonstrated with violations of the Leggett-Garg inequality. Here we investigate
+  the effects of weak measurement on a maximally entangled Bell state through application
+  of the Hybrid Bell-Leggett-Garg inequality (BLGI) on a linear chain of four transmon
+  qubits. By correlating the results of weak ancilla measurements with subsequent
+  projective readout, we achieve a violation of the BLGI with 27 standard deviations
+  of certainty.
 publication: '*npj Quantum Information*'
 doi: 10.1038/npjqi.2015.22
 links:

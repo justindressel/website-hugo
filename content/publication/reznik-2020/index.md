@@ -30,13 +30,23 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:43:56.199446Z'
+publishDate: '2022-01-28T00:18:22.312504Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'We show that in the mathematical framework of the quantum theory the classical
+  pigeonhole principle can be violated more directly than previously suggested, i.e.,
+  in a setting closer to the traditional statement of the principle. We describe how
+  the counterfactual reasoning of the paradox may be operationally grounded in the
+  analysis of the tiny footprints left in the environment by the pigeons. After identifying
+  the drawbacks of recent experiments of the quantum pigeonhole effect, we argue that
+  a definitive experimental violation of the pigeonhole principle is still needed
+  and propose such an implementation using modern quantum computing hardware: a superconducting
+  circuit with transmon qubits.'
 publication: '*Physical Review Research*'
 doi: 10.1103/PhysRevResearch.2.023004
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2002.06990
 - name: URL
   url: https://link.aps.org/doi/10.1103/PhysRevResearch.2.023004
 ---

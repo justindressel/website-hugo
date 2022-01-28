@@ -31,10 +31,18 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:08.432484Z'
+publishDate: '2022-01-28T00:18:34.753580Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: We generalize the derivation of Leggett-Garg inequalities to systematically
+  treat a larger class of experimental situations by allowing multi-particle correlations,
+  invasive detection, and ambiguous detector results. Furthermore, we show how many
+  such inequalities may be tested simultaneously with a single setup. As a proof of
+  principle, we violate several such two-particle inequalities with data obtained
+  from a polarization-entangled biphoton state and a semi-weak polarization measurement
+  based on Fresnel reflection. We also point out a non- trivial connection between
+  specific two-party Leggett-Garg inequality violations and convex sums of strange
+  weak values.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.106.040402
 links:

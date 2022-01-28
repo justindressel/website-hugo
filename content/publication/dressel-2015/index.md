@@ -27,13 +27,26 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:03.037179Z'
+publishDate: '2022-01-28T00:18:29.221397Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Weak values arise experimentally as conditioned averages of weak (noisy)
+  observable measurements that minimally disturb an initial quantum state, and also
+  as dynamical variables for reduced quantum state evolution even in the absence of
+  measurement. These averages can exceed the eigenvalue range of the observable ostensibly
+  being estimated, which has prompted considerable debate regarding their interpretation.
+  Classical conditioned averages of noisy signals only show such anomalies if the
+  quantity being measured is also disturbed prior to conditioning. This fact has recently
+  been rediscovered, along with the question whether anomalous weak values are merely
+  classical disturbance effects. Here we carefully review the role of the weak value
+  as both a conditioned observable estimation and a dynamical variable, and clarify
+  why classical disturbance models will be insufficient to explain the weak value
+  unless they can also simulate other quantum interference phenomena.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.91.032116
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/1410.0943
 - name: URL
   url: https://link.aps.org/doi/10.1103/PhysRevA.91.032116
 ---

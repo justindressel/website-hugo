@@ -30,13 +30,23 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:43:58.871648Z'
+publishDate: '2022-01-28T00:18:25.108824Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: We investigate the statistical arrow of time for a quantum system being
+  monitored by a sequence of measurements. For a continuous qubit measurement example,
+  we demonstrate that time-reversed evolution is always physically possible, provided
+  that the measurement record is also negated. Despite this restoration of dynamical
+  reversibility, a statistical arrow of time emerges, and may be quantified by the
+  log-likelihood difference between forward and backward propagation hypotheses. We
+  then show that such reversibility is a universal feature of non-projective measurements,
+  with forward or backward Janus measurement sequences that are time-reversed inverses
+  of each other.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.119.220507
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/1610.03818
 - name: URL
   url: http://dx.doi.org/10.1103/PhysRevLett.119.220507
 ---

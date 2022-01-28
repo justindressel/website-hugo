@@ -30,13 +30,22 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:43:57.687240Z'
+publishDate: '2022-01-28T00:18:23.783900Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: For systems of controllable qubits, we provide a method for experimentally
+  obtaining a useful class of multitime correlators using sequential generalized measurements
+  of arbitrary strength. Specifically, if a correlator can be expressed as an average
+  of nested (anti)commutators of operators that square to the identity, then that
+  correlator can be determined exactly from the average of a measurement sequence.
+  As a relevant example, we provide quantum circuits for measuring multiqubit out-of-time-order
+  correlators (OTOCs) using optimized control-Z or ZX -90 two-qubit gates common in
+  superconducting transmon implementations.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.98.012132
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/1805.00667
 - name: URL
   url: https://link.aps.org/doi/10.1103/PhysRevA.98.012132
 ---

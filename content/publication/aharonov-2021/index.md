@@ -32,13 +32,18 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:43:55.589645Z'
+publishDate: '2022-01-28T00:18:21.726888Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: A recent criticism by Kunstatter et al. [Phys. Lett. A 384, 126686 (2020)]
+  of a quantum setup violating the pigeon counting principle [Aharonov et al. PNAS
+  113, 532 (2016)] is refuted. The quantum nature of the violation of the pigeonhole
+  principle with pre- and postselection is clarified.
 publication: '*Physics Letters A*'
 doi: 10.1016/j.physleta.2021.127287
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2103.09570
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0375960121001511
 ---

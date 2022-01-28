@@ -28,13 +28,26 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:06.947870Z'
+publishDate: '2022-01-28T00:18:33.284158Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: We refute the widely held belief that the quantum weak value necessarily
+  pertains to weak measurements. To accomplish this, we use the transverse position
+  of a beam as the detector for the conditioned von Neumann measurement of a system
+  observable. For any coupling strength, any initial states, and any choice of conditioning,
+  the averages of the detector position and momentum are completely described by the
+  real parts of three generalized weak values in the joint Hilbert space. Higher-order
+  detector moments also have similar weak value expansions. Using the Wigner distribution
+  of the initial detector state, we find compact expressions for these weak values
+  within the reduced system Hilbert space. As an application of the approach, we show
+  that for any Hermite-Gauss mode of a paraxial beam-like detector these expressions
+  reduce to the real and imaginary parts of a single system weak value plus an additional
+  weak-value-like contribution that only affects the momentum shift.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.109.230402
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/1206.4714
 - name: URL
   url: http://dx.doi.org/10.1103/PhysRevLett.109.230402
 ---

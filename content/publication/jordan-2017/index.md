@@ -31,10 +31,19 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:43:59.464585Z'
+publishDate: '2022-01-28T00:18:25.708433Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: We examine the time reversal symmetry of quantum measurement sequences by
+  introducing a forward and backward Janus sequence of measurements. If the forward
+  sequence of measurements creates a sequence of quantum states in time, starting
+  from an initial state and ending in a final state, then the backward sequence begins
+  with the time-reversed final state, exactly retraces the intermediate states, and
+  ends with the time-reversed initial state. We prove that such a sequence can always
+  be constructed, showing that unless the measurements are ideal projections, it is
+  impossible to tell if a given sequence of measurements is progressing forward or
+  backward in time. A statistical arrow of time emerges only because typically the
+  forward sequence is more probable than the backward sequence.
 publication: '*AIP Conference Proceedings*'
 doi: 10.1063/1.4982767
 links:

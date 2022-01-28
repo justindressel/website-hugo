@@ -34,13 +34,24 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:00.064130Z'
+publishDate: '2022-01-28T00:18:26.303803Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: A novel method was recently proposed and experimentally realized for characterizing
+  a quantum state by directly measuring its complex probability amplitudes in a particular
+  basis using so-called weak values. Recently Vallone and Dequal showed theoretically
+  that weak measurements are not a necessary condition to determine the weak value
+  [Phys. Rev. Lett. 116, 040502 (2016)]. Here we report a measurement scheme used
+  in a matter-wave interferometric experiment in which the neutron path system's quantum
+  state was characterized via direct measurements using both strong and weak interactions.
+  Experimental evidence is given that strong interactions outperform weak ones. Our
+  results are not limited to neutron interferometry, but can be used in a wide range
+  of quantum systems.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.118.010402
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/1604.04102
 - name: URL
   url: http://dx.doi.org/10.1103/PhysRevLett.118.010402
 ---

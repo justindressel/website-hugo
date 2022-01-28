@@ -28,13 +28,30 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:43:58.577970Z'
+publishDate: '2022-01-28T00:18:24.815441Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Monitoring a quantum observable continuously in time produces a stochastic
+  measurement record that noisily tracks the observable. For a classical process such
+  noise may be reduced to recover an average signal by minimizing the mean squared
+  error between the noisy record and a smooth dynamical estimate. We show that for
+  a monitored qubit this usual procedure returns unusual results. While the record
+  seems centered on the expectation value of the observable during causal generation,
+  examining the collected past record reveals that it better approximates a moving-mean
+  Gaussian stochastic process centered at a distinct (smoothed) observable estimate.
+  We show that this shifted mean converges to the real part of a generalized weak
+  value in the time-continuous limit without additional postselection. We verify that
+  this smoothed estimate minimizes the mean squared error even for individual measurement
+  realizations. We go on to show that if a second observable is weakly monitored concurrently,
+  then that second record is consistent with the smoothed estimate of the second observable
+  based solely on the information contained in the first observable record. Moreover,
+  we show that such a smoothed estimate made from incomplete information can still
+  outperform estimates made using full knowledge of the causal quantum state.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.96.062110
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/1708.04362
 - name: URL
   url: https://link.aps.org/doi/10.1103/PhysRevA.96.062110
 ---

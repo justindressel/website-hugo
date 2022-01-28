@@ -28,13 +28,30 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:06.355790Z'
+publishDate: '2022-01-28T00:18:32.665668Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: We demonstrate that quantum instruments can provide a unified operational
+  foundation for quantum theory. Since these instruments directly correspond to laboratory
+  devices, this foundation provides an alternate, more experimentally grounded, perspective
+  from which to understand the elements of the traditional approach. We first show
+  that in principle all measurable probabilities and correlations can be expressed
+  entirely in terms of quantum instruments without the need for conventional quantum
+  states or observables. We then show how these states and observables reappear as
+  derived quantities by conditioning joint detection probabilities on the first or
+  last measurement in a sequence as a preparation or a post-selection. Both predictive
+  and retrodictive versions of states and observables appear in this manner, as well
+  as more exotic bidirectional and interdictive states and observables that cannot
+  be easily expressed using the traditional approach. We also revisit the conceptual
+  meaning of the Heisenberg and Schrödinger pictures of time evolution as applied
+  to the various derived quantities, illustrate how detector loss can be included
+  naturally, and discuss how the instrumental approach fully generalizes the time-symmetric
+  two-vector approach of Aharonov emphet al. to any realistic laboratory situation.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.88.022107
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/1305.2816
 - name: URL
   url: https://link.aps.org/doi/10.1103/PhysRevA.88.022107
 ---

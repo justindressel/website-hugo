@@ -29,10 +29,20 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:04.822880Z'
+publishDate: '2022-01-28T00:18:31.176111Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: By generalizing the quantum weak measurement protocol to the case of quantum
+  fields, we show that weak measurements probe an effective classical background field
+  that describes the average field configuration in the spacetime region between pre-
+  and postselection boundary conditions. The classical field is itself a weak value
+  of the corresponding quantum field operator and satisfies equations of motion that
+  extremize an effective action. Weak measurements perturb this effective action,
+  producing measurable changes to the classical field dynamics. As such, weakly measured
+  effects always correspond to an effective classical field. This general result explains
+  why these effects appear to be robust for pre- and postselected ensembles, and why
+  they can also be measured using classical field techniques that are not weak for
+  individual excitations of the field.
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.112.110407
 links:

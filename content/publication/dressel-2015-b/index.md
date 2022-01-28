@@ -29,10 +29,29 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:01.841372Z'
+publishDate: '2022-01-28T00:18:28.054200Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: We present a comprehensive introduction to spacetime algebra that emphasizes
+  its practicality and power as a tool for the study of electromagnetism. We carefully
+  develop this natural (Clifford) algebra of the Minkowski spacetime geometry, with
+  a particular focus on its intrinsic (and often overlooked) complex structure. Notably,
+  the scalar imaginary that appears throughout the electromagnetic theory properly
+  corresponds to the unit 4-volume of spacetime itself, and thus has physical meaning.
+  The electric and magnetic fields are combined into a single complex and frame-independent
+  bivector field, which generalizes the Riemann-Silberstein complex vector that has
+  recently resurfaced in studies of the single photon wavefunction. The complex structure
+  of spacetime also underpins the emergence of electromagnetic waves, circular polarizations,
+  the normal variables for canonical quantization, the distinction between electric
+  and magnetic charge, complex spinor representations of Lorentz transformations,
+  and the dual (electric-magnetic field exchange) symmetry that produces helicity
+  conservation in vacuum fields. This latter symmetry manifests as an arbitrary global
+  phase of the complex field, motivating the use of a complex vector potential, along
+  with an associated transverse and gauge-invariant bivector potential, as well as
+  complex (bivector and scalar) Hertz potentials. Our detailed treatment aims to encourage
+  the use of spacetime algebra as a readily available and mature extension to existing
+  vector calculus and tensor methods that can greatly simplify the analysis of fundamentally
+  relativistic objects like the electromagnetic field.
 publication: '*Physics Reports*'
 doi: 10.1016/j.physrep.2015.06.001
 links:

@@ -31,13 +31,27 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-26T01:44:06.056077Z'
+publishDate: '2022-01-28T00:18:32.369277Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: We consider the use of cyclic weak measurements to improve the sensitivity
+  of weak-value amplification precision measurement schemes. Previous weak-value experiments
+  have used only a small fraction of events, while discarding the rest through the
+  process of \"post-selection.\" We extend this idea by considering recycling of events
+  which are typically unused in a weak measurement. Here we treat a sequence of polarized
+  laser pulses effectively trapped inside an interferometer using a Pockels cell and
+  polarization optics. In principle, all photons can be post-selected, which will
+  improve the measurement sensitivity. We first provide a qualitative argument for
+  the expected improvements from recycling photons, followed by the exact result for
+  the recycling of collimated beam pulses, and numerical calculations for diverging
+  beams. We show that beam degradation effects can be mitigated via profile flipping
+  or Zeno reshaping. The main advantage of such a recycling scheme is an effective
+  power increase, while maintaining an amplified deflection.
 publication: '*Physical Review A*'
 doi: 10.1103/PhysRevA.88.023821
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/1305.4520
 - name: URL
   url: https://link.aps.org/doi/10.1103/PhysRevA.88.023821
 ---
