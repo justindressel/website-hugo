@@ -42,11 +42,11 @@ social:
   icon_pack: fas
   link: 'mailto:luburns@chapman.edu'
 - icon: twitter
- icon_pack: fab
- link: https://twitter.com/lukeburns
+  icon_pack: fab
+  link: https://twitter.com/lukeburns
 - icon: google-scholar
- icon_pack: ai
- link: https://scholar.google.com/citations?user=i6t0OQYAAAAJ
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=i6t0OQYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/lukeburns
