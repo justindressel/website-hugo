@@ -30,7 +30,7 @@ education:
     year: 2020
   - course: B.S. in Mathematics
     institution: Chapman University
-        year: 2020
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
