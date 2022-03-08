@@ -12,7 +12,7 @@ organizations:
 - name: Schmid College of Science and Engineering
   url: "https://www.chapman.edu/scst"
 - name: Institute for Quantum Studies
- url: "https://quantum.chapman.edu"
+  url: "https://quantum.chapman.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Grad student researching quantum information and foundations. 
