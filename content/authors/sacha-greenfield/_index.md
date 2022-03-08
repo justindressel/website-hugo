@@ -37,6 +37,7 @@ education:
     year: 2019
 
 # Social/Academic Networking
+social:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/` and link here 
 - icon: cv
