@@ -1,6 +1,6 @@
 ---
 # Display name
-title: YourName GoesHere
+title: Lucas Burns
 
 # Role/position
 role: Graduate Student
@@ -11,23 +11,27 @@ organizations:
   url: "https://www.chapman.edu"
 - name: Schmid College of Science and Engineering
   url: "https://www.chapman.edu/scst"
-#- name: Institute for Quantum Studies
-#  url: "https://quantum.chapman.edu"
+- name: Institute for Quantum Studies
+ url: "https://quantum.chapman.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: One sentence bio goes here
+bio: Grad student researching quantum information and foundations. 
 
 interests:
-- List
-- Your
-- Interests
-- Here
+- Relativistic Field Theories
+- Relativistic Quantum Information
+- Contextuality in Quantum Foundations
+- Clifford Algebras
+- Machine Learning (e.g. Boltzmann Machines)
 
 education:
   courses:
-  - course: B.S. in Subject Here 
-    institution: Your College Goes Here
-    year: 20??
+  - course: Ph.D. in Computational Science
+    institution: Chapman University
+    year: 2024 
+  - course: B.S. in Physics
+    institution: Oberlin College
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,24 +40,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:youremail@chapman.edu'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/yourtwitter
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=yourusercodehere
+  link: 'mailto:luburns@chapman.edu'
+- icon: twitter
+ icon_pack: fab
+ link: https://twitter.com/lukeburns
+- icon: google-scholar
+ icon_pack: ai
+ link: https://scholar.google.com/citations?user=i6t0OQYAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/yourgithubhandle
+  link: https://github.com/lukeburns
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/` and link here 
-- icon: cv
-  icon_pack: ai
-  link: files/your-cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/your-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "yourgravataremail@chapman.edu"
+email: "luburns@chapman.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -64,4 +68,4 @@ user_groups:
 #- Visitors
 ---
 
-Your multi-paragraph long biography goes here.
+Lucas is a PhD student doing research in things like relativistic field theory and quantum foundations. His recent work and interests include the emergence of spin angular momentum in field theories, quantum trajectory simulation, multiparticle quantum spacetime algebra, renormalization, and gauge theories.
