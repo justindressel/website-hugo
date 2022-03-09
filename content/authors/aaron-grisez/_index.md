@@ -36,7 +36,7 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:@chapman.edu'
-- icon: linked-in
+- icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/aaron-grisez
 # - icon: twitter
