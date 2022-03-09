@@ -74,7 +74,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 Dr. Justin Dressel primarily researches quantum information science, quantum computation, and the foundations of quantum physics. These fields are natural intersection points between physics, mathematics, and computer science.

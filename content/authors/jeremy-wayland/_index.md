@@ -52,9 +52,9 @@ social:
   link: https://github.com/yourgithubhandle
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/` and link here 
-- icon: cv
-  icon_pack: ai
-  link: files/your-cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/your-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: jwayland@chapman.edu
