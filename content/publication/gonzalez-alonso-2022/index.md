@@ -7,7 +7,7 @@ subtitle: ''
 # Summary. An optional shortened abstract.
 summary: ''
 authors:
-- José Raúl González Alonso
+- Jose Raul Gonzalez Alonso
 - Nathan Shammah
 - Shahnawaz Ahmed
 - Franco Nori

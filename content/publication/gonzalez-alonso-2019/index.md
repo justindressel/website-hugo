@@ -5,7 +5,7 @@ title: Out-of-Time-Ordered-Correlator Quasiprobabilities Robustly Witness Scramb
 subtitle: ''
 summary: ''
 authors:
-- José Raúl González Alonso
+- Jose Raul Gonzalez Alonso
 - Nicole Yunger Halpern
 - Justin Dressel
 tags: []

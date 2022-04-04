@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Justin Dressel
-- José Raúl González Alonso
+- Jose Raul Gonzalez Alonso
 - Mordecai Waegell
 - Nicole Yunger Halpern
 tags: []

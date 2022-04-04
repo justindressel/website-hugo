@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Razieh Mohseninia
-- José Raúl González Alonso
+- Jose Raul Gonzalez Alonso
 - Justin Dressel
 tags: []
 categories: []
