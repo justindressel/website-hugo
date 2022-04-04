@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Taylor Lee Patti
 - Areeya Chantasri
-- Luis Pedro Garcı́a-Pintos
+- Luis Pedro Garcia-Pintos
 - Andrew N Jordan
 - Justin Dressel
 tags: []

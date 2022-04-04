@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Luis Cortez
 - Areeya Chantasri
-- Luis Pedro Garcı́a-Pintos
+- Luis Pedro Garcia-Pintos
 - Justin Dressel
 - Andrew N Jordan
 tags: []

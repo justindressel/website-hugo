@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Shay Hacohen-Gourgy
-- Luis Pedro Garcı́a-Pintos
+- Luis Pedro Garcia-Pintos
 - Leigh S Martin
 - Justin Dressel
 - Irfan Siddiqi

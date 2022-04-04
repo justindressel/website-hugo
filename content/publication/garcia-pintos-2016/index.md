@@ -6,7 +6,7 @@ title: Probing quantumness with joint continuous measurements of noncommuting qu
 subtitle: ''
 summary: ''
 authors:
-- Luis Pedro Garcı́a-Pintos
+- Luis Pedro Garcia-Pintos
 - Justin Dressel
 tags: []
 categories: []

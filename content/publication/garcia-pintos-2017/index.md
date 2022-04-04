@@ -5,7 +5,7 @@ title: Past observable dynamics of a continuously monitored qubit
 subtitle: ''
 summary: ''
 authors:
-- Luis Pedro Garcı́a-Pintos
+- Luis Pedro Garcia-Pintos
 - Justin Dressel
 tags: []
 categories: []
