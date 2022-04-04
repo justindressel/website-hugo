@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Luis Pedro Garcia-Pintos
+title: Luis Pedro Garcı́a-Pintos
 
 # Role/position
 role: Assistant Research Scientist
