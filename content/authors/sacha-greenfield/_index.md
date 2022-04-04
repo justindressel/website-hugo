@@ -43,6 +43,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/sacha-greenfield-cv.pdf
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/sacha-greenfield-7a9340160
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
