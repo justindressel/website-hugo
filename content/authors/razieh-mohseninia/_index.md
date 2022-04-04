@@ -69,3 +69,4 @@ user_groups:
 - Past Researchers
 ---
 
+Spin Group Tenure: 2019-2020

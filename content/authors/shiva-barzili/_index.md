@@ -65,6 +65,8 @@ user_groups:
 - Graduate Alumni
 ---
 
+Spin Group Tenure: 2015-2021
+
 Data scientist with hands-on experience on applying machine learning algorithms, statistical models, data mining techniques, and analytical predictive models to analyze the performance of existing approaches and identify new opportunities using innovative solutions.
 
 Quantum research scientist and programmer. Experienced in quantum algorithms, and quantum programming languages (Qiskit, Q#, QuTiP)

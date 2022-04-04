@@ -62,3 +62,4 @@ user_groups:
 - Graduate Alumni
 ---
 
+Spin Group Tenure: 2016-2021

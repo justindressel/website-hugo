@@ -76,4 +76,6 @@ user_groups:
 - Past Researchers
 ---
 
+Spin Group Tenure: 2018-2019
+
 Scientist with more than 10 years of industry, academic research, and teaching experience.

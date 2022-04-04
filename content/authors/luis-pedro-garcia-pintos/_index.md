@@ -63,3 +63,4 @@ user_groups:
 - Past Researchers
 ---
 
+Spin Group Tenure: 2016-2017
