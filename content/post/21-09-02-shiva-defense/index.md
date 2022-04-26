@@ -1,6 +1,9 @@
 ---
 title: Dr. Shiva Barzili!
 date: 2021-09-02
+reading_time: false  
+share: false  
+profile: true  
 image:
   focal_point: "top"
 ---

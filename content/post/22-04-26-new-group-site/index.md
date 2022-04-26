@@ -1,6 +1,9 @@
 ---
 title: New Website Design
 date: 2022-04-26
+reading_time: false  
+share: false  
+profile: true  
 image:
   focal_point: "top"
 ---
