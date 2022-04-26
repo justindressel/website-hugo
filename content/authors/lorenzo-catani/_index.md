@@ -36,9 +36,9 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:@chapman.edu'
-- icon: linkedin
-  icon_pack: fab
-  link: https://linkedin.com/in/lorenzo-catani-275042188/
+ - icon: linkedin
+   icon_pack: fab
+   link: https://linkedin.com/in/lorenzo-catani-275042188/
  - icon: twitter
    icon_pack: fab
    link: https://twitter.com/catani_lorenzo
