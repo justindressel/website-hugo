@@ -3,7 +3,7 @@
 title: Razieh Mohseninia
 
 # Role/position
-role: Data Scientist
+role: (2019-2020) | Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -69,4 +69,4 @@ user_groups:
 - Past Researchers
 ---
 
-Spin Group Tenure: 2019-2020
+

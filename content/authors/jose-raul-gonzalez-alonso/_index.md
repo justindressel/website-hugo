@@ -3,7 +3,7 @@
 title: José Raúl González Alonso
 
 # Role/position
-role: Data Science Manager
+role: (2018-2019) | Data Science Manager
 
 # Organizations/Affiliations
 organizations:
@@ -75,7 +75,5 @@ user_groups:
 #- Graduate Alumni
 - Past Researchers
 ---
-
-Spin Group Tenure: 2018-2019
 
 Scientist with more than 10 years of industry, academic research, and teaching experience.

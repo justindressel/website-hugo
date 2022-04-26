@@ -3,7 +3,7 @@
 title: Luis Pedro Garcı́a-Pintos
 
 # Role/position
-role: Assistant Research Scientist
+role: (2016-2017) | Assistant Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -63,4 +63,3 @@ user_groups:
 - Past Researchers
 ---
 
-Spin Group Tenure: 2016-2017
