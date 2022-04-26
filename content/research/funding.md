@@ -20,7 +20,7 @@ item:
     date_start: '2019-09-01'
     date_end: '2022-08-30'
     description: |-
-      NSF-BSF Grant Award No. 1915015
+      NSF-BSF Grant Award No. 1915015 \
       BSF Collaborator: Dr. Lev Vaidman, University of Tel Aviv, Israel
   - organization: ARO
     organization_url: ''
@@ -30,9 +30,9 @@ item:
     date_start: '2018-07-01'
     date_end: '2022-06-30'
     description: |-
-      Army Research Office (ARO) Grant Award No. W911NF-18-1-0178
-      PI: Dr. Irfan Siddiqi, University of California, Berkeley
-      Co-PI: Dr. Andrew N. Jordan, University of Rochester / Chapman University
+      Army Research Office (ARO) Grant Award No. W911NF-18-1-0178 \
+      PI: Dr. Irfan Siddiqi, University of California, Berkeley \
+      Co-PI: Dr. Andrew N. Jordan, University of Rochester / Chapman University \
       Co-PI: Dr. Joseph Emerson, University of Waterloo
   - organization: ARO
     organization_url: ''
@@ -42,9 +42,9 @@ item:
     date_start: '2015-07-01'
     date_end: '2018-06-30'
     description: |-
-      Army Research Office (ARO) Grant Award No. W911NF-15-1-0496
-      PI: Dr. Irfan Siddqi, University of California, Berkeley
-      Co-PI: Dr. Andrew N. Jordan, University of Rochester
+      Army Research Office (ARO) Grant Award No. W911NF-15-1-0496 \
+      PI: Dr. Irfan Siddqi, University of California, Berkeley \
+      Co-PI: Dr. Andrew N. Jordan, University of Rochester \
       Co-PI: Dr. Alexander N. Korotkov, University of California, Riverside
 
 ---
