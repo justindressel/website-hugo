@@ -3,7 +3,7 @@
 title: Jeremy Wayland
 
 # Role/position
-role: Graduate Student
+role: Graduate Student (Co-advised by [Dr. M. Drew Moshier (Chapman)](https://www.chapman.edu/our-faculty/m-andrew-moshier))
 
 # Organizations/Affiliations
 organizations:

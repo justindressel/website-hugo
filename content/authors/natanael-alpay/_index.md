@@ -3,7 +3,7 @@
 title: Natanael Alpay
 
 # Role/position
-role: Undergraduate Student (Co-advised by [Dr. M. Vajiac](https://www1.chapman.edu/~mbvajiac))
+role: Undergraduate Student (Co-advised by [Dr. M. Vajiac (Chapman)](https://www1.chapman.edu/~mbvajiac))
 
 # Organizations/Affiliations
 organizations:
