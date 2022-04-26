@@ -3,7 +3,7 @@
 title: Abby Bechtel
 
 # Role/position
-role: Undergraduate Student (Co-advised in the [CatLab of Dr. LaRue](https://sites.chapman.edu/catlab/))
+role: Undergraduate Student (Co-advised in the [CatLab of Dr. LaRue (Chapman)](https://sites.chapman.edu/catlab/))
 
 # Organizations/Affiliations
 organizations:
