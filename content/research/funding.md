@@ -12,9 +12,9 @@ date_format: Jan 2020
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `>-`.
 item:
-  - organization: National Science Foundation (NSF)
+  - organization: 'National Science Foundation (NSF)'
     organization_url: 'https://nsf.gov'
-    title: NSF-BSF: Efficiently Modeling Continuous Quantum Measurements of High-Dimensional Multi-Qubit Systems
+    title: 'NSF-BSF: Efficiently Modeling Continuous Quantum Measurements of High-Dimensional Multi-Qubit Systems'
     url: ''
     certificate_url: 'https://nsf.gov'
     date_start: '2019-09-01'
@@ -22,9 +22,9 @@ item:
     description: >-
       NSF-BSF Grant Award No. 1915015
       BSF Collaborator: Dr. Lev Vaidman, University of Tel Aviv, Israel
-  - organization: Army Research Office (ARO) / Laboratory for the Physical Sciences (LPS)
-    organization_url: 
-    title: Implementation of Novel Benchmarking and Error Management Protocols in Planar Transmon Processors
+  - organization: 'Army Research Office (ARO) / Laboratory for the Physical Sciences (LPS)'
+    organization_url: ''
+    title: 'Implementation of Novel Benchmarking and Error Management Protocols in Planar Transmon Processors'
     url: ''
     certificate_url: ''
     date_start: '2018-07-01'
@@ -34,9 +34,9 @@ item:
       PI: Dr. Irfan Siddiqi, University of California, Berkeley
       Co-PI: Dr. Andrew N. Jordan, University of Rochester / Chapman University
       Co-PI: Dr. Joseph Emerson, University of Waterloo
-  - organization: Army Research Office (ARO) / Laboratory for the Physical Sciences (LPS)
-    organization_url: 
-    title: Continuous Quantum State Tracking and Error Correction (CQSTEC)
+  - organization: 'Army Research Office (ARO) / Laboratory for the Physical Sciences (LPS)'
+    organization_url: ''
+    title: 'Continuous Quantum State Tracking and Error Correction (CQSTEC)'
     url: ''
     certificate_url: ''
     date_start: '2015-07-01'
