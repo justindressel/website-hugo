@@ -3,7 +3,8 @@
 title: Taylor Lee Patti
 
 # Role/position
-role: Research Scientist
+role: (2015-2017) \\
+      Research Scientist
 
 # Organizations/Affiliations
 organizations:
