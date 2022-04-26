@@ -5,7 +5,7 @@ image:
   focal_point: "top"
 ---
 
-Congratulations to Dr. Shiva Barzili for defending her Ph.D. thesis successfully!
+Congratulations to {{% mention "shiva-barzili" %}} for defending her Ph.D. thesis successfully!
 
 <!--more-->
 
