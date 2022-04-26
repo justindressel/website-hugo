@@ -3,7 +3,7 @@
 title: Aaron Grisez
 
 # Role/position
-role: Software Engineer 
+role: (2017-2019) | Software Engineer 
 
 # Organizations/Affiliations
 organizations:

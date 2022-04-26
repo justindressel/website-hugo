@@ -3,7 +3,7 @@
 title: Sidy Danioko
 
 # Role/position
-role: Data Scientist
+role: (2018-2020) | Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -74,4 +74,4 @@ user_groups:
 - Graduate Alumni
 ---
 
-Spin Group Tenure: 2018-2020
+

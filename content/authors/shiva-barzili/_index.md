@@ -3,7 +3,7 @@
 title: Shiva L. Barzili
 
 # Role/position
-role: Data Scientist and Quantum Computing Researcher
+role: (2015-2021) | Data Scientist and Quantum Computing Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -64,8 +64,6 @@ user_groups:
 #- Visitors
 - Graduate Alumni
 ---
-
-Spin Group Tenure: 2015-2021
 
 Data scientist with hands-on experience on applying machine learning algorithms, statistical models, data mining techniques, and analytical predictive models to analyze the performance of existing approaches and identify new opportunities using innovative solutions.
 

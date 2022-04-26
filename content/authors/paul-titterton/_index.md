@@ -3,7 +3,7 @@
 title: Paul Titterton
 
 # Role/position
-role: Systems Engineer 
+role: (2016-2017) | Systems Engineer 
 
 # Organizations/Affiliations
 organizations:

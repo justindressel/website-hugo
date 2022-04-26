@@ -3,7 +3,7 @@
 title: Will Parker
 
 # Role/position
-role: Graduate Student (Physics)
+role: (2017-2018) | Graduate Student (Physics)
 
 # Organizations/Affiliations
 organizations:

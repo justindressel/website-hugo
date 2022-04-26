@@ -3,7 +3,7 @@
 title: Ismael Lucas de Paiva
 
 # Role/position
-role: Postdoctoral Research Associate
+role: (2016-2021) | Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -62,4 +62,3 @@ user_groups:
 - Graduate Alumni
 ---
 
-Spin Group Tenure: 2016-2021

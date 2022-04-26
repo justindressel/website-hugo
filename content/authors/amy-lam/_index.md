@@ -3,7 +3,7 @@
 title: Amy Lam
 
 # Role/position
-role: Mechanical Engineer 
+role: (2018-2019) | Mechanical Engineer 
 
 # Organizations/Affiliations
 organizations:

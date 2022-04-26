@@ -3,7 +3,7 @@
 title: Michael Seaman
 
 # Role/position
-role: Data Scientist
+role: (2017-2019) | Data Scientist
 
 # Organizations/Affiliations
 organizations:
