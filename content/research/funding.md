@@ -23,7 +23,7 @@ item:
       NSF-BSF Grant Award No. 1915015 \
       BSF Collaborator: Dr. Lev Vaidman, University of Tel Aviv, Israel
   - organization: ARO
-    organization_url: ''
+    organization_url: 'https://www.arl.army.mil/who-we-are/aro/'
     title: 'Implementation of Novel Benchmarking and Error Management Protocols in Planar Transmon Processors'
     url: ''
     certificate_url: ''
@@ -35,7 +35,7 @@ item:
       Co-PI: Dr. Andrew N. Jordan, University of Rochester / Chapman University \
       Co-PI: Dr. Joseph Emerson, University of Waterloo
   - organization: ARO
-    organization_url: ''
+    organization_url: 'https://www.arl.army.mil/who-we-are/aro/'
     title: 'Continuous Quantum State Tracking and Error Correction (CQSTEC)'
     url: ''
     certificate_url: ''
