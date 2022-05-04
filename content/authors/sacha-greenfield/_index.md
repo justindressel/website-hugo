@@ -3,7 +3,7 @@
 title: Sacha Greenfield
 
 # Role/position
-role: Graduate Student (Co-advised by [Dr. Eli Levinson-Falk (USC)](https://dornsife.usc.edu/cf/phys/faculty_display.cfm?person_ID=1080381))
+role: Graduate Student (Co-advised by [Dr. Eli Levinson-Falk (USC)](https://dornsife.usc.edu/labs/lfl/))
 
 # Organizations/Affiliations
 organizations:
