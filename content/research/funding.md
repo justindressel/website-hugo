@@ -20,6 +20,7 @@ experience:
     date_start: '2019-09-01'
     description: |-
       [NSF-BSF Grant Award No. 1915015](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915015) \
+      PI: Dr. Justin Dressel, Chapman University \
       BSF Collaborator: Dr. Lev Vaidman, University of Tel Aviv, Israel \
       Award amount: $321,000 \
       Award end date: Aug 2023
@@ -31,6 +32,7 @@ experience:
     description: |-
       Army Research Office (ARO) Grant Award No. W911NF-18-1-0178 \
       PI: Dr. Irfan Siddiqi, University of California, Berkeley \
+      Co-PI: Dr. Justin Dressel, Chapman University \
       Co-PI: Dr. Andrew N. Jordan, University of Rochester / Chapman University \
       Co-PI: Dr. Joseph Emerson, University of Waterloo \
       Subcontract amount: $546,328 \
@@ -44,6 +46,7 @@ experience:
     description: |-
       Army Research Office (ARO) Grant Award No. W911NF-15-1-0496 \
       PI: Dr. Irfan Siddqi, University of California, Berkeley \
+      Co-PI: Dr. Justin Dressel, Chapman University \
       Co-PI: Dr. Andrew N. Jordan, University of Rochester \
       Co-PI: Dr. Alexander N. Korotkov, University of California, Riverside \
       Subcontract amount: $300,000
