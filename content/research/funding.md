@@ -12,6 +12,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `>-`.
 experience:
+  columns: 2
   - company: NSF
     company_url: 'https://nsf.gov'
     company_logo: nsf
@@ -20,8 +21,8 @@ experience:
     description: |-
       [NSF-BSF Grant Award No. 1915015](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915015) \
       BSF Collaborator: Dr. Lev Vaidman, University of Tel Aviv, Israel \
+      Award amount: $321,000 \
       Award end date: Aug 2023
-      Award amount: $321,000
   - company: ARO/LPS
     company_url: 'https://www.arl.army.mil/who-we-are/aro/'
     company_logo: aro
@@ -32,7 +33,7 @@ experience:
       PI: Dr. Irfan Siddiqi, University of California, Berkeley \
       Co-PI: Dr. Andrew N. Jordan, University of Rochester / Chapman University \
       Co-PI: Dr. Joseph Emerson, University of Waterloo \
-      Chapman Subcontract: $546,328
+      Subcontract amount: $546,328 \
       Award end date: Sep 2022
   - company: ARO/LPS
     company_url: 'https://www.arl.army.mil/who-we-are/aro/'
@@ -45,6 +46,6 @@ experience:
       PI: Dr. Irfan Siddqi, University of California, Berkeley \
       Co-PI: Dr. Andrew N. Jordan, University of Rochester \
       Co-PI: Dr. Alexander N. Korotkov, University of California, Riverside \
-      Chapman Subcontract: $300,000
+      Subcontract amount: $300,000
 
 ---
