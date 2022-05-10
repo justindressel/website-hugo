@@ -15,7 +15,7 @@ item:
   - organization: NSF
     organization_url: 'https://nsf.gov'
     title: 'NSF-BSF: Efficiently Modeling Continuous Quantum Measurements of High-Dimensional Multi-Qubit Systems'
-    url: ''
+    url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915015'
     certificate_url: ''
     date_start: '2019-09-01'
     date_end: '2022-08-30'
