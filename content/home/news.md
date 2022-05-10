@@ -2,7 +2,7 @@
 widget: pages
 headless: true  # This file represents a page section.
 
-title: Recent Publications
+title: Recent News
 subtitle: ''
 weight: 50
 
@@ -10,7 +10,7 @@ content:
   # Filter content to display
   filters:
     folders:
-      - publications
+      - post
     tag: ''
     category: ''
     publication_type: ''
