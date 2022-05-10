@@ -1,15 +1,14 @@
 ---
-widget: pages
+widget: featured
 headless: true  # This file represents a page section.
 
-title: Recent Publications
+title: Featured Publications
 subtitle: ''
 weight: 50
 
 content:
-  # Filter content to display
+  page_type: publication
   filters:
-    item_type: publication
     tag: ''
     category: ''
     publication_type: ''
@@ -19,14 +18,14 @@ content:
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
+  order: desc
 design:
   # Choose a listing view
-  view: compact
+  # 1 = List
+  # 2 = Compact
+  # 3 = Card
+  # 4 = Citation
+  view: 3
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---

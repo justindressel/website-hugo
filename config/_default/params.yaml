@@ -15,7 +15,7 @@ font_size: S
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: The research group of Dr. Justin Dressel.
+description: The research group of Dr. Justin Dressel at Chapman University.
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -71,8 +71,8 @@ show_related:
   project: true
   publication: true
   talk: true
-reading_time: true
-section_pager: false
+reading_time: false
+section_pager: true
 sharing: true
 i_am_a_sponsor: true
 copyright_license:
@@ -98,9 +98,9 @@ comments:
     page: true
     post: true
     docs: true
-    project: true
-    publication: true
-    talk: true
+    project: false
+    publication: false
+    talk: false
   disqus:
     shortname: ''
     show_count: true

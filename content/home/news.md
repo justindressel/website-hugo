@@ -9,7 +9,8 @@ weight: 50
 content:
   # Filter content to display
   filters:
-    item_type: post
+    folders: 
+      - post
     tag: ''
     category: ''
     publication_type: ''
