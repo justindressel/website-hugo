@@ -1,7 +1,7 @@
+---
 widget: pages
 headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
 title: Recent Publications
 subtitle: ''
 weight: 50
@@ -30,3 +30,5 @@ design:
   view: compact
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
+---
+
