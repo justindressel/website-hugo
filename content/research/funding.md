@@ -6,13 +6,13 @@ title: Funding Sources
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
+columns: 2
 
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
+#   Add/remove as many `experience` blocks below as you like.
+#   `title`, `company` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `>-`.
 experience:
-  columns: 2
   - company: NSF
     company_url: 'https://nsf.gov'
     company_logo: nsf
