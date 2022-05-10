@@ -14,7 +14,7 @@ date_format: Jan 2006
 experience:
   - company: NSF
     company_url: 'https://nsf.gov'
-    company_logo: NSF
+    company_logo: nsf
     title: 'NSF-BSF: Efficiently Modeling Continuous Quantum Measurements of High-Dimensional Multi-Qubit Systems'
     url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915015'
     certificate_url: ''
