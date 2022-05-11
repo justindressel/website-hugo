@@ -12,7 +12,7 @@ feature:
     icon_pack: fas
     name: Quantum Computation
     description: Developing active quantum technology
-  - icon: person-walking-dashed-line-arrow-right
+  - icon: person-through-window
     icon_pack: fas
     name: Foundations of Physics
     description: Deconstructing physical models
