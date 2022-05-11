@@ -17,19 +17,19 @@ links:
   - icon_pack: fas
     icon: newspaper
     name: News
-    url: {{< relref "/post" >}}
+    url: "/post"
   - icon_pack: fas
     icon: users
     name: Meet the Team
-    url: {{< relref "/people" >}}
+    url: "/people"
   - icon_pack: fas
     icon: book
     name: Research Topics
-    url: {{< relref "/research" >}}
+    url: "/research"
   - icon_pack: fas
     icon: book-reader
     name: Publications
-    url: {{< relref "/publication" >}}
+    url: "/publication"
 ---
 
 <br>
