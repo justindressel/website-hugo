@@ -12,9 +12,24 @@ hero_media: group-meeting-2-5-21.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+
+links:
+  - icon_pack: fas
+    icon: newspaper
+    name: News
+    url: {{< relref "/post" >}}
+  - icon_pack: fas
+    icon: users
+    name: Meet the Team
+    url: {{< relref "/people" >}}
+  - icon_pack: fas
+    icon: book
+    name: Research Topics
+    url: {{< relref "/research" >}}
+  - icon_pack: fas
+    icon: book-reader
+    name: Publications
+    url: {{< relref "/publication" >}}
 ---
 
 <br>
