@@ -13,34 +13,17 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 
-links:
-  - icon_pack: fas
-    icon: newspaper
-    name: News
-    url: "/post"
-  - icon_pack: fas
-    icon: users
-    name: Meet the Team
-    url: "/people"
-  - icon_pack: fas
-    icon: book
-    name: Research Topics
-    url: "/research"
-  - icon_pack: fas
-    icon: book-reader
-    name: Publications
-    url: "/publication"
 ---
 
 <br>
 
 Welcome to the research group of Professor {{% mention "justin-dressel" %}} at [Chapman University](https://www.chapman.edu/physics").
 
-
-[{{< icon name="newspaper" pack="fas" >}} News]({{< relref "/post" >}})
-
-[{{< icon name="users" pack="fas" >}} Meet the Team]({{< relref "/people" >}})
-
-[{{< icon name="book" pack="fas" >}} Research Topics]({{< relref "/research" >}})
-
-[{{< icon name="book-reader" pack="fas" >}} Publications]({{< relref "/publication" >}})
+# 
+# [{{< icon name="newspaper" pack="fas" >}} News]({{< relref "/post" >}})
+# 
+# [{{< icon name="users" pack="fas" >}} Meet the Team]({{< relref "/people" >}})
+# 
+# [{{< icon name="book" pack="fas" >}} Research Topics]({{< relref "/research" >}})
+# 
+# [{{< icon name="book-reader" pack="fas" >}} Publications]({{< relref "/publication" >}})
