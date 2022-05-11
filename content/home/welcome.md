@@ -5,7 +5,7 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 60  # Order that this section will appear.
+weight: 10  # Order that this section will appear.
 title: |
   Spin Group
 hero_media: group-meeting-2-5-21.png
@@ -19,6 +19,11 @@ design:
 
 <br>
 
-The **Spin Group** is led by **Prof. Justin Dressel** at Chapman University.
+Welcome to the research group of Prof. {{% mention "justin-dressel" %}} at [Chapman University](https://www.chapman.edu/physics").
 
-We research *Quantum Information*, *Quantum Computation*, and *Quantum Foundations*, as well as adjacent topics like *Geometric Algebra* and the uses of *Machine Learning* in physics.
+We research *Quantum Information*, *Quantum Computation*, and *Quantum Foundations*.
+
+[{{< icon name="newspaper" pack="fas" >}} News]({{< relref "/post" >}})
+[{{< icon name="users" pack="fas" >}} Meet the Team]({{< relref "/people" >}})
+[{{< icon name="book" pack="fas" >}} Research Topics]({{< relref "/research" >}})
+[{{< icon name="book-reader" pack="fas" >}} Publications]({{< relref "/publication" >}})
