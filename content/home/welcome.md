@@ -19,11 +19,13 @@ design:
 
 <br>
 
-Welcome to the research group of Prof. {{% mention "justin-dressel" %}} at [Chapman University](https://www.chapman.edu/physics").
+Welcome to the research group of Professor {{% mention "justin-dressel" %}} at [Chapman University](https://www.chapman.edu/physics").
 
-We research *Quantum Information*, *Quantum Computation*, and *Quantum Foundations*.
 
 [{{< icon name="newspaper" pack="fas" >}} News]({{< relref "/post" >}})
+
 [{{< icon name="users" pack="fas" >}} Meet the Team]({{< relref "/people" >}})
+
 [{{< icon name="book" pack="fas" >}} Research Topics]({{< relref "/research" >}})
+
 [{{< icon name="book-reader" pack="fas" >}} Publications]({{< relref "/publication" >}})

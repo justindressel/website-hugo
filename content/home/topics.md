@@ -3,6 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 
+title: Research Areas
 feature:
   - icon: atom
     icon_pack: fas
@@ -15,6 +16,6 @@ feature:
   - icon: chalkboard-teacher
     icon_pack: fas
     name: Foundations of Physics
-    description: Deconstructing physical models
-
+    description: Deconstructing our physical models
 ---
+{{< cta cta_text="Learn more" cta_link="/research" cta_new_tab="false" >}}
