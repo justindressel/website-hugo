@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: true
-weight: 10
+weight: 20
 
 feature:
   - icon: atom
