@@ -5,7 +5,7 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
+weight: 30  # Order that this section will appear.
 title: |
   Spin Group
 hero_media: group-meeting-2-5-21.png
