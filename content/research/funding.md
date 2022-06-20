@@ -1,6 +1,7 @@
 ---
 widget: experience
 headless: true
+weight: 90
 
 title: Funding Sources
 # Date format
