@@ -17,5 +17,6 @@ feature:
     icon_pack: fas
     name: Foundations of Physics
     description: Deconstructing our physical models
+
+# {{< cta cta_text="Learn more" cta_link="/research" cta_new_tab="false" >}}
 ---
-{{< cta cta_text="Learn more" cta_link="/research" cta_new_tab="false" >}}
