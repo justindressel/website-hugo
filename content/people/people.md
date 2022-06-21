@@ -35,4 +35,4 @@ design:
 # Affiliated Folks
 
  - [Frequent Collaborators]({{< relref "collaborators" >}})
- - [Past Group Members]({{< relref "past" >}})
+ - [Past Group Members]({{< relref "past-people" >}})
