@@ -1,9 +1,8 @@
 ---
 widget: featurette
 headless: true
-weight: 20
+weight: 10
 
-title: Research Areas
 feature:
   - icon: atom
     icon_pack: fas

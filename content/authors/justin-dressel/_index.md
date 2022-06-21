@@ -53,9 +53,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:dressel@chapman.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/justdressel
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/justdressel
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=euAfq5gAAAAJ
