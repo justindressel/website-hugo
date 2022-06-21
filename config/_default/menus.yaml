@@ -12,7 +12,18 @@ main:
     weight: 20
   - name: People
     identifier: people
+    weight: 30
+  - name: Spin Group
+    parent: people
     url: people
+    weight: 10
+  - name: Collaborators
+    parent: people
+    url: people/collaborators
+    weight: 20
+  - name: Former Folks
+    parent: people
+    url: people/past
     weight: 30
   - name: Research
     url: research
