@@ -14,14 +14,6 @@ main:
     identifier: people
     url: people
     weight: 30
-  - name: Collaborators
-    parent: people
-    url: people/collaborators/
-    weight: 10
-  - name: Past People
-    parent: people
-    url: people/past/
-    weight: 20
   - name: Research
     url: research
     weight: 40
