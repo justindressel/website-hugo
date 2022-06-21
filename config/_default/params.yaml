@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: mr_robot #minimal
+  theme_day: minimal
   theme_night: mr_robot
   font: rose
   font_size: S
