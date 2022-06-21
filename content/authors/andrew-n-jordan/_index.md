@@ -44,9 +44,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: laptop-house
+  icon_pack: fas
+  link: https://sites.google.com/view/andrewnjordan/Home
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:prof.andrew.jordan@chapman.edu'
+  link: 'mailto:prof.andrew.jordan@gmail.com'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/
