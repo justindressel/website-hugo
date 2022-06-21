@@ -31,3 +31,8 @@ design:
   show_role: true
   show_social: true
 ---
+
+# Affiliated Folks
+
+ - [Frequent Collaborators]({{< relref "/people/collaborators/" >}})
+ - [Past Group Members]({{< relref "/people/past/" >}})
