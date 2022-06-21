@@ -60,8 +60,8 @@ social:
 user_groups:
 #- Researchers
 #- Graduate Students
-- Undergraduate Students
+#- Undergraduate Students
 #- Visitors
-#- Undergraduate Alumni
+- Undergraduate Alumni
 ---
 
