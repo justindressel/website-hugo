@@ -19,3 +19,11 @@ feature:
 
 # {{< cta cta_text="Learn more" cta_link="/research" cta_new_tab="false" >}}
 ---
+ 
+ - [{{< icon name="newspaper" pack="fas" >}} News]({{< relref "/post" >}})
+ 
+ - [{{< icon name="users" pack="fas" >}} Meet the Team]({{< relref "/people" >}})
+ 
+ - [{{< icon name="book" pack="fas" >}} Research Topics]({{< relref "/research" >}})
+ 
+ - [{{< icon name="book-reader" pack="fas" >}} Publications]({{< relref "/publication" >}})
