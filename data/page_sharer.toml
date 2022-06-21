@@ -39,7 +39,7 @@
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "weibo"

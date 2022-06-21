@@ -69,11 +69,8 @@ features:
       - latex
   math:
     enable: true
-  #diagram: 
-  #  - enable: true
   privacy_pack:
-    - enable: false
-
+    enable: false
   repository:
     url: 'https://github.com/justindressel/website-hugo'
     content_dir: content
@@ -99,6 +96,8 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+  #diagram: 
+  #  - enable: true
 
 # Extensions
 
