@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Justin Dressel, Ph.D.. This work is licensed under {license}'
+    notice: '© {year} Justin Dressel, Ph.D., using [Hugo Wowchemy](https://wowchemy.com)' 
     license:
       enable: true
       allow_derivatives: false
@@ -69,8 +69,8 @@ features:
       - latex
   math:
     enable: true
-  diagram: 
-    - enable: true
+  #diagram: 
+  #  - enable: true
   privacy_pack:
     - enable: false
 
