@@ -3,7 +3,7 @@
 title: Andrew N. Jordan
 
 # Role/position
-role: Professor of Physics
+role: Professor of Physics, Co-Director of the Institute for Quantum Studies
 
 # Organizations/Affiliations
 organizations:
