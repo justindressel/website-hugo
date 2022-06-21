@@ -22,7 +22,7 @@ content:
 # - Undergraduate Students
 # - Administration
 # - Visitors
- - Co-Investigators
+  - Co-Investigators
 # - Past Researchers
 # - Graduate Alumni
 # - Undergraduate Alumni
