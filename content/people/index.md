@@ -4,8 +4,8 @@ type: widget_page
 
 links:
   - name: Former Members
-    url: '{{< rel_ref "former-members" >}}'
+    url: '{{< relref "/people/former-members" >}}'
   - name: Frequent Collaborators
-    url: '{{< rel_ref "collaborators" >}}'
+    url: '{{< relref "/people/collaborators" >}}'
 
 ---
