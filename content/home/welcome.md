@@ -1,5 +1,5 @@
 ---
-widget: portfolio
+widget: people
 headless: true  
 
 weight: 10  
@@ -8,23 +8,15 @@ title: |
   Spin Group
 
 content:
-  filters:
-    folders:
-      - authors
-#    tags:
-#    exclude_tags:
-#    kinds:
-#      - page
-#      - section
-
-sort_by: 'Date'
-sort_ascending: false
+  user_groups:
+    - Principal Investigator
 
 design:
-  columns: '1'
-  view: masonry
-  flip_alt_rows: false
-
+  - show_social: true
+  - show_interests: false
+  - show_role: true
+  - show_organization: true  
+ 
 ---
 
 <br>
