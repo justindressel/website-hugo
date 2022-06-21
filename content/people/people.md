@@ -30,4 +30,10 @@ design:
   show_interests: false
   show_role: true
   show_social: true
+
+links:
+  - name: Collaborators
+    url: '/people/collaborators/'
+  - name: Past People
+    url: '/people/past/'
 ---
