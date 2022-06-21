@@ -9,13 +9,13 @@ title: |
 
 content:
   user_groups:
-    - Principal Investigator
+  - Principal Investigator
 
 design:
-  - show_social: true
-  - show_interests: false
-  - show_role: true
-  - show_organization: true  
+  show_social: true
+  show_interests: false
+  show_role: true
+  show_organization: true  
  
 ---
 
