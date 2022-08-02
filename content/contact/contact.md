@@ -56,6 +56,8 @@ design:
 # Text goes below yaml brackets
 ---
 
+{{< cite page="/author/justin-dressel" view="3" >}}
+
 > **Justin Dressel, Ph.D.**  
 > Associate Professor of Physics    
 > [Schmid College of Science and Technology](http://www.chapman.edu/scst)    
