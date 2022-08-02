@@ -56,8 +56,6 @@ design:
 # Text goes below yaml brackets
 ---
 
-{{< cite page="/author/justin-dressel" view="3" >}}
-
 > **Justin Dressel, Ph.D.**  
 > Associate Professor of Physics    
 > [Schmid College of Science and Technology](http://www.chapman.edu/scst)    
@@ -68,5 +66,7 @@ design:
 
 **Biography for talks**:
 
-Dr. Justin Dressel is an Associate Professor of Physics at Chapman University, in both the Schmid College of Science and Technology and the Institute for Quantum Studies. He received his Ph.D. in Physics at the University of Rochester in 2013 under the advisement of Dr. Andrew N. Jordan, after which he worked as a postdoctoral scholar at RIKEN in Wako-shi, Japan under the advisement of Dr. Franco Nori, as well as the University of California, Riverside under the advisement of Dr. Alexander Korotkov. He joined the faculty at Chapman University in 2015 as an Assistant Professor and was awarded tenure in 2019. Though trained in quantum optics and quantum foundations, his recent research has revolved around the development of superconducting quantum circuits in collaboration with experimental groups at Google, UC Santa Barbara, MIT Lincoln Laboratory, USC, and, most recently, UC Berkeley.
+Dr. Justin Dressel is an Associate Professor of Physics at Chapman University, in both the Schmid College of Science and Technology and the Institute for Quantum Studies. He received his Ph.D. in Physics at the University of Rochester in 2013 under the advisement of Dr. Andrew N. Jordan, after which he worked as a postdoctoral scholar at RIKEN in Wako-shi, Japan under the advisement of Dr. Franco Nori, as well as the University of California, Riverside under the advisement of Dr. Alexander Korotkov. He joined the faculty at Chapman University in 2015 as an Assistant Professor and was awarded tenure in 2019. 
+
+Dr. Justin Dressel primarily researches quantum information science, quantum computation, and the foundations of quantum physics. These fields are natural intersection points between physics, mathematics, and computer science. His recent research has revolved around the development of superconducting quantum circuits for quantum computation in collaboration with experimental groups at Google, UC Santa Barbara, MIT Lincoln Laboratory, USC, and UC Berkeley.
 
