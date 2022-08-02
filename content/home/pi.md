@@ -17,13 +17,8 @@ cta_alt:
   url: '/contact'
   label: 'Contact the PI'
 
-cta:
-  url: '/research'
-  label: Learn about our research
-  icon_pack: fas
-  icon: atom
- 
 ---
 
 Our group is led by [Dr. Justin Dressel]({{< relref "/authors/justin-dressel" >}}):
 
+<br/>
