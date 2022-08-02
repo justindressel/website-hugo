@@ -20,6 +20,8 @@ content:
   count: 5
   order: desc
 design:
+  spacing:
+    padding: ["20px", 0, "20px", 0]
   # Choose a listing view
   # 1 = List
   # 2 = Compact

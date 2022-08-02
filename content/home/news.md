@@ -27,6 +27,8 @@ content:
   sort_ascending: false
 design:
   # Choose a listing view
+  spacing:
+    padding: ["20px", 0, "20px", 0]
   view: compact
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
