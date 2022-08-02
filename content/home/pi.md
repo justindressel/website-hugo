@@ -19,6 +19,6 @@ cta_alt:
 
 Welcome to the **Spin Group**! 
 
-Our research group is led by [Dr. Justin Dressel]({{< relref "/author/justin-dressel" >}}) 
+Our research group is led by [Dr. Justin Dressel]({{< relref "/authors/justin-dressel" >}}) 
 
 
