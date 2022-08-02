@@ -9,9 +9,6 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 
-subtitle:
-
 content:
   # Contact (edit or remove options as required)
   
@@ -52,6 +49,7 @@ content:
 
 design:
   columns: '1'
+  spacing: ["0", "0", "20px", "0"]
   
 # Text goes below yaml brackets
 ---

@@ -20,4 +20,7 @@ design:
   show_interests: false
   show_role: true
   show_social: true
+  spacing:
+    # top, right, bottom, left
+    padding: ["20px", "0", "0", "0"]
 ---
