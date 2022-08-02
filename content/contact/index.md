@@ -1,5 +1,7 @@
 ---
 # Files in this folder represent a Widget Page
 type: widget_page
-title: 'Contact the PI'
+
+design:
+  columns: '2'
 ---

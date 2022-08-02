@@ -48,7 +48,7 @@ content:
   #    captcha: false
 
 design:
-  columns: '1'
+  columns: '2'
   spacing: 
     # top, right, bottom, left
     padding: ["0", "0", "20px", "0"]
