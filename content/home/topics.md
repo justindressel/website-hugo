@@ -19,6 +19,11 @@ feature:
     name: Foundations of Physics
     description: Deconstructing our physical models
 
-# {{< cta cta_text="Learn more" cta_link="/research" cta_new_tab="false" >}}
+design:
+  spacing:
+    padding: [0, 0, "20px", 0]
+
 ---
+
+{{< cta cta_text="Learn more" cta_link="/research" cta_new_tab="false" >}}
  
