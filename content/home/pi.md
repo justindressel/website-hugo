@@ -17,4 +17,8 @@ cta_alt:
  
 ---
 
-Welcome to the **Spin Group**, led by [Dr. Justin Dressel]({{< relref "/contact" >}}) at [Chapman University](https://www.chapman.edu/physics).'
+Welcome to the **Spin Group**! 
+
+Our research group is led by [Dr. Justin Dressel]({{< relref "/author/justin-dressel" >}}) 
+
+

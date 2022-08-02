@@ -3,6 +3,8 @@ widget: featurette
 headless: true
 weight: 20
 
+title: Research Topics
+
 feature:
   - icon: atom
     icon_pack: fas
