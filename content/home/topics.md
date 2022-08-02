@@ -23,5 +23,3 @@ design:
 
 ---
 
-{{< cta cta_text="Learn about our research" cta_link="/research" cta_new_tab="false" >}}
- 
