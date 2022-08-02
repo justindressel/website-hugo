@@ -49,7 +49,9 @@ content:
 
 design:
   columns: '1'
-  spacing: ["0", "0", "20px", "0"]
+  spacing: 
+    # top, right, bottom, left
+    padding: ["0", "0", "20px", "0"]
   
 # Text goes below yaml brackets
 ---
