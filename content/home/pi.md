@@ -17,7 +17,12 @@ cta_alt:
   url: '/contact'
   label: 'Contact the PI'
 
+design:
+  spacing:
+    padding: [0, "40px", 0, "20px"]
+
 ---
+<br/>
 
 Our group is led by [Dr. Justin Dressel]({{< relref "/authors/justin-dressel" >}})
 
