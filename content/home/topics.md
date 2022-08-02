@@ -3,8 +3,6 @@ widget: featurette
 headless: true
 weight: 20
 
-title: Research Topics
-
 feature:
   - icon: atom
     icon_pack: fas
@@ -21,9 +19,9 @@ feature:
 
 design:
   spacing:
-    padding: [0, 0, "20px", 0]
+    padding: [0, 0, "40px", 0]
 
 ---
 
-{{< cta cta_text="Learn more" cta_link="/research" cta_new_tab="false" >}}
+{{< cta cta_text="Learn about our research" cta_link="/research" cta_new_tab="false" >}}
  

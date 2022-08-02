@@ -4,6 +4,8 @@ headless: true
 
 weight: 10  
 
+title: Welcome to the **Spin Group**!
+
 hero_media: 'group-meeting-2-5-21.png'
 
 cta:
@@ -17,8 +19,5 @@ cta_alt:
  
 ---
 
-Welcome to the **Spin Group**! 
-
-The group is led by [Dr. Justin Dressel]({{< relref "/authors/justin-dressel" >}}).
-
+Our group is led by [Dr. Justin Dressel]({{< relref "/authors/justin-dressel" >}}):
 <br/>
