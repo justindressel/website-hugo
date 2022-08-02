@@ -19,6 +19,6 @@ cta_alt:
 
 ---
 
-Our group is led by [Dr. Justin Dressel]({{< relref "/authors/justin-dressel" >}}):
+Our group is led by [Dr. Justin Dressel]({{< relref "/authors/justin-dressel" >}})
 
 <br/>
