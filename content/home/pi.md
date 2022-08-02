@@ -1,14 +1,17 @@
 ---
-widget: about
+widget: hero
 headless: true  
 
-weight: 20  
+weight: 10  
 
-author: 'justin-dressel'
+cta:
+  url: '/group'
+  label: Meet the Spin Group
+  icon_pack: fas
+  icon: people-group
+cta_alt:
+  url: '/contact'
+  label: 'Contact the PI'
  
 ---
-
-<!-- -->
-Welcome to the research group led by Professor {{% mention "justin-dressel" %}} at [Chapman University](https://www.chapman.edu/physics").
-<!-- -->
 
