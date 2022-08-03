@@ -2,11 +2,11 @@
 widget: hero
 headless: true  
 
-weight: 15  
+weight: 20  
 
 cta:
   url: '/research'
-  label: Learn about our research
+  label: Learn more about what we research
   icon_pack: fas
   icon: atom
 cta_alt:
