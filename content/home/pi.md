@@ -4,7 +4,8 @@ headless: true
 
 weight: 10  
 
-title: Welcome to the **Spin Group**!
+title: Welcome to the **Spin Group**
+subtitle: 'Led by [Prof. Justin Dressel]({{< relref "/authors/justin-dressel" >}})'
 
 hero_media: 'group-meeting-2-5-21.png'
 
@@ -20,11 +21,7 @@ cta_alt:
 design:
   columns: '1'
   spacing:
-    padding: [0, "60px", 0, "20px"]
 
 ---
-<br/>
-
-Our group is led by [Dr. Justin Dressel]({{< relref "/authors/justin-dressel" >}})
 
 <br/>
