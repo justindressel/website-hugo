@@ -14,6 +14,7 @@ cta_alt:
   label: 'Read our papers'
 
 design:
+  columns: '1'
   spacing:
     padding: [0, 0, "20px", 0]
 

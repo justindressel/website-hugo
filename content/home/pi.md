@@ -18,8 +18,9 @@ cta_alt:
   label: 'Contact the PI'
 
 design:
+  columns: '1'
   spacing:
-    padding: [0, "40px", 0, "20px"]
+    padding: [0, "60px", 0, "20px"]
 
 ---
 <br/>
