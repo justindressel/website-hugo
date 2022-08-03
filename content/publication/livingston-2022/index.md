@@ -23,7 +23,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'Right'
   preview_only: false
 
 # Projects (optional).
@@ -48,7 +48,7 @@ abstract: The storage and processing of quantum information are susceptible to e
   results showcase resource-efficient stabilizer measurements in a multi-qubit architecture 
   and demonstrate how continuous error correction codes can address challenges in realizing 
   a fault-tolerant system.
-publication: '*Nature Communications*'
+publication: '*Nature Communications* **13**, 2307 (2022)'
 doi: 10.1038/s41467-022-29906-0
 url_pdf: papers/s41467-022-29906-0.pdf
 links:
