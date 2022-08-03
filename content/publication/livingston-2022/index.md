@@ -36,18 +36,18 @@ publishDate: '2022-04-28T00:00:00.000000Z'
 publication_types:
 - '2'
 abstract: The storage and processing of quantum information are susceptible to external 
-noise, resulting in computational errors. A powerful method to suppress these effects 
-is quantum error correction. Typically, quantum error correction is executed in discrete 
-rounds, using entangling gates and projective measurement on ancillary qubits to complete 
-each round of error correction. Here we use direct parity measurements to implement a 
-continuous quantum bit-flip correction code in a resource-efficient manner, eliminating 
-entangling gates, ancillary qubits, and their associated errors. An FPGA controller actively 
-corrects errors as they are detected, achieving an average bit-flip detection efficiency of 
-up to 91%. Furthermore, the protocol increases the relaxation time of the protected logical 
-qubit by a factor of 2.7 over the relaxation times of the bare comprising qubits. Our 
-results showcase resource-efficient stabilizer measurements in a multi-qubit architecture 
-and demonstrate how continuous error correction codes can address challenges in realizing 
-a fault-tolerant system.
+  noise, resulting in computational errors. A powerful method to suppress these effects 
+  is quantum error correction. Typically, quantum error correction is executed in discrete 
+  rounds, using entangling gates and projective measurement on ancillary qubits to complete 
+  each round of error correction. Here we use direct parity measurements to implement a 
+  continuous quantum bit-flip correction code in a resource-efficient manner, eliminating 
+  entangling gates, ancillary qubits, and their associated errors. An FPGA controller actively 
+  corrects errors as they are detected, achieving an average bit-flip detection efficiency of 
+  up to 91%. Furthermore, the protocol increases the relaxation time of the protected logical 
+  qubit by a factor of 2.7 over the relaxation times of the bare comprising qubits. Our 
+  results showcase resource-efficient stabilizer measurements in a multi-qubit architecture 
+  and demonstrate how continuous error correction codes can address challenges in realizing 
+  a fault-tolerant system.
 publication: '*Nature Communications*'
 doi: 10.1038/s41467-022-29906-0
 url_pdf: papers/s41467-022-29906-0.pdf
