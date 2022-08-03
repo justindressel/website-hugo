@@ -3,7 +3,12 @@
 
 title: Monitoring fast superconducting qubit dynamics using a neural network
 subtitle: ''
-summary: ''
+summary: |-
+  Weak measurements of a quantum system allow us to monitor a quantum state in real time with only a small disturbance. Finding the quantum state from a series of weak measurements typically involves a “quantum filter” derived from basic laws of quantum mechanics. This traditional weak measurement approach works well if the quantum state changes slowly compared with the detector response time. However, if the qubit changes rapidly, traditional methods that reconstruct the quantum state fail because the detector affects our best estimate of the quantum state. In our experiment, we use weak measurements to monitor fast dynamics of a superconducting qubit coupled to a readout resonator.
+  
+  Instead of using a traditional method to monitor the qubit state, we develop a new method with a long short-term memory neural network, which learns the quantum mechanics responsible for the state trajectories by itself. The long short-term memory neural network also learns an unexpected correction to the standard quantum filter, which is most clearly visible in the stochastic measurement disturbance of the fast qubit trajectories. Our newly developed theory shows that this correction can be well explained by the memory effect of the detector.
+  
+  With our ability to accurately track fast qubit dynamics, we expect to see new applications of weak measurements such as diagnosing qubit gates in quantum processors and continuous measurements for quantum error correction.
 authors:
 - Gerwin Koolstra
 - Noah Stevenson
