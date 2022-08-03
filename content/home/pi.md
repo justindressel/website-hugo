@@ -9,7 +9,7 @@ title: Welcome to the <br/> **Spin Group**
 hero_media: 'group-meeting-2-5-21.png'
 
 cta:
-  url: '/group'
+  url: '/people'
   label: Meet the Spin Group
   icon_pack: fas
   icon: user-group

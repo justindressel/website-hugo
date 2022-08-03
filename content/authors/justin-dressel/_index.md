@@ -89,7 +89,7 @@ user_groups:
 - Principal Investigator
 ---
 
-| {{< cta cta_text="**Photography Homepage**" cta_link="https://photos.justindressel.com" cta_new_tab="true" >}} | {{< cta cta_text="**Contact Information**" cta_link="/contact" cta_new_tab="false" >}} |
+| {{< cta cta_text="**Contact Information**" cta_link="/contact" cta_new_tab="false" >}} | {{< cta cta_text="**Photography Homepage**" cta_link="https://photos.justindressel.com" cta_new_tab="true" >}} |
 | --- | --- |
 
 Dr. Justin Dressel is an Associate Professor of Physics at Chapman University, in both the Schmid College of Science and Technology and the Institute for Quantum Studies. He received his Ph.D. in Physics at the University of Rochester in 2013 under the advisement of Dr. Andrew N. Jordan, after which he worked as a postdoctoral scholar at RIKEN in Wako-shi, Japan under the advisement of Dr. Franco Nori, as well as the University of California, Riverside under the advisement of Dr. Alexander Korotkov. He joined the faculty at Chapman University in 2015 as an Assistant Professor and was awarded tenure in 2019. 
