@@ -15,7 +15,7 @@ cta_alt:
 
 design:
   spacing:
-    padding: [0, "-40px", 0, "20px"]
+    padding: [0, 0, 0, 0]
 
 ---
 
