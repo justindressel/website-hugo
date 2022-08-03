@@ -13,9 +13,5 @@ cta_alt:
   url: '/publication'
   label: 'Read our papers'
 
-design:
-  spacing:
-    padding: [0, 0, 0, "20px"]
-
 ---
 
