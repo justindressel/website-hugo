@@ -4,8 +4,8 @@ headless: true
 
 weight: 10  
 
-title: "Welcome to the <br/> **Spin Group**"
-subtitle: "Led by [Prof. Justin Dressel]({{< relref "/authors/justin-dressel" >}})"
+title: Welcome to the <br/> **Spin Group**
+subtitle: Led by [Prof. Justin Dressel]({{< relref "/authors/justin-dressel" >}})
 
 hero_media: 'group-meeting-2-5-21.png'
 
