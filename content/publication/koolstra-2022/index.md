@@ -37,7 +37,7 @@ draft: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'TopLeft'
+  focal_point: 'Top'
   preview_only: false
 
 # Projects (optional).
