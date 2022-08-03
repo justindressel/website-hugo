@@ -19,5 +19,7 @@ cta_alt:
 
 ---
 <br/>
+
 Led by [Prof. Justin Dressel]({{< relref "/authors/justin-dressel" >}})
+
 <br/>
