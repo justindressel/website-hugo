@@ -44,7 +44,7 @@
   {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
   {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
   {{ with $resource }}
-  {{ $image := .Fit (printf "808x455 webp %s" $anchor) }}
+  {{ $image := .Resize (printf "808x webp %s" $anchor) }}
   <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
     <div class="img-hover-zoom">
       <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
