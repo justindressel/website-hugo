@@ -18,8 +18,8 @@ cta_alt:
   label: 'Contact the PI'
 
 ---
-<br/>
+<!--br/>
 
 Led by [Prof. Justin Dressel]({{< relref "/authors/justin-dressel" >}})
 
-<br/>
+<br/-->
