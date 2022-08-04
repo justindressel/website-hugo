@@ -47,7 +47,7 @@ abstract: Large weak values have been used to amplify the sensitivity of a linea
   quantum Cramér-Rao bound. To illustrate this protocol we provide simple quantum
   circuits that can be implemented using current experimental realizations of three
   entangled qubits.
-publication: '*Physical Review Letters*'
+publication: '*Physical Review Letters* **113**, 030401'
 doi: 10.1103/PhysRevLett.113.030401
 url_pdf: papers/PhysRevLett.113.030401.pdf
 links:

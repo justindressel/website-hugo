@@ -50,7 +50,7 @@ abstract: Unlike the real part of the generalized weak value of an observable, w
   Lindblad sense, which allows the shifts for a Gaussian detector to be completely
   understood for any coupling strength in terms of a single complex weak value that
   involves the decohered initial state.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **85**, 012107'
 doi: 10.1103/PhysRevA.85.012107
 url_pdf: papers/PhysRevA.85.012107.pdf
 links:

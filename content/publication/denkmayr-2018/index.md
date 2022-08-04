@@ -44,7 +44,7 @@ abstract: In their original framework weak values must be measured by weak measu
   of generalized eigenvalues for the neutron's path system to allow the exact determination
   of weak values using both strong and weak interactions. Experimental evidence is
   given that strong interactions outperform weak ones both for precision and accuracy.
-publication: '*Physica B: Condensed Matter*'
+publication: '*Physica B: Condensed Matter* **551**, 339-346'
 doi: 10.1016/j.physb.2018.04.014
 url_pdf: papers/jphysb.2018.04.014.pdf
 links:

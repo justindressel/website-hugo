@@ -41,7 +41,7 @@ abstract: For systems of controllable qubits, we provide a method for experiment
   As a relevant example, we provide quantum circuits for measuring multiqubit out-of-time-order
   correlators (OTOCs) using optimized control-Z or ZX -90 two-qubit gates common in
   superconducting transmon implementations.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **98**, 012132'
 doi: 10.1103/PhysRevA.98.012132
 url_pdf: papers/PhysRevA.98.012132.pdf
 links:

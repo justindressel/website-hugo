@@ -44,7 +44,7 @@ abstract: 'Out-of-time-ordered correlators (OTOCs) have received considerable re
   measuring OTOCs: interferometric, quantum-clock, and weak-measurement. We target
   implementations with quantum-computing hardware such as superconducting qubits or
   trapped ions.'
-publication: '*Physical Review Letters*'
+publication: '*Physical Review Letters* **122**, 040404'
 doi: 10.1103/PhysRevLett.122.040404
 url_pdf: papers/PhysRevLett.122.040404.pdf
 links:

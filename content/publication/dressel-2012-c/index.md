@@ -58,7 +58,7 @@ abstract: "We present a detailed motivation for and definition of the contextual
   \ Finally, we provide a derivation of the quantum weak value as a limit point of\
   \ a pre- and postselected conditioned average and provide sufficient conditions\
   \ for the derivation to hold."
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **85**, 022123'
 doi: 10.1103/PhysRevA.85.022123
 url_pdf: papers/PhysRevA.85.022123.pdf
 links:

@@ -43,7 +43,7 @@ abstract: By generalizing the quantum weak measurement protocol to the case of q
   why these effects appear to be robust for pre- and postselected ensembles, and why
   they can also be measured using classical field techniques that are not weak for
   individual excitations of the field.
-publication: '*Physical Review Letters*'
+publication: '*Physical Review Letters* **112**, 110407'
 doi: 10.1103/PhysRevLett.112.110407
 url_pdf: papers/PhysRevLett.112.110407.pdf
 links:

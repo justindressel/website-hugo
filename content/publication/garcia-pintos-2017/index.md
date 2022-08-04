@@ -47,7 +47,7 @@ abstract: Monitoring a quantum observable continuously in time produces a stocha
   based solely on the information contained in the first observable record. Moreover,
   we show that such a smoothed estimate made from incomplete information can still
   outperform estimates made using full knowledge of the causal quantum state.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **96**, 062110'
 doi: 10.1103/PhysRevA.96.062110
 url_pdf: papers/PhysRevA.96.062110.pdf
 links:

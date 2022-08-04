@@ -49,7 +49,7 @@ abstract: We theoretically investigate a generalized “which-path” measuremen
   the zero-frequency cross correlations produces conditioned averages that can become
   anomalously large due to quantum interference; the weak-coupling limit of these
   conditioned averages can produce both weak and detector-dependent semiweak values.
-publication: '*Physical Review B*'
+publication: '*Physical Review B* **85**, 0452320'
 doi: 10.1103/PhysRevB.85.045320
 url_pdf: papers/PhysRevB.85.045320.pdf
 links:

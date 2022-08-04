@@ -44,7 +44,7 @@ abstract: We examine the time reversal symmetry of quantum measurement sequences
   impossible to tell if a given sequence of measurements is progressing forward or
   backward in time. A statistical arrow of time emerges only because typically the
   forward sequence is more probable than the backward sequence.
-publication: '*AIP Conference Proceedings*'
+publication: '*AIP Conference Proceedings* **1841**, 020003'
 doi: 10.1063/1.4982767
 url_pdf: papers/AIPConfProc.1841.020003.pdf
 links:

@@ -40,7 +40,7 @@ abstract: We improve the precision of the interferometric weak-value-based beam 
   eliminating the inefficiency of the rare postselection. The signal-to-noise ratio
   of the deflection is itself magnified by the weak value. We discuss ways to realize
   this proposal, using a transverse beam filter and different cavity designs.
-publication: '*Physical Review Letters*'
+publication: '*Physical Review Letters* **114**, 170801'
 doi: 10.1103/PhysRevLett.114.170801
 url_pdf: papers/PhysRevLett.114.170801.pdf
 links:

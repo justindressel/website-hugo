@@ -44,7 +44,7 @@ abstract: Out-of-time-ordered correlators (OTOCs) have been proposed as a tool t
   distinct values over the same measured distribution reveals either the OTOC or parameters
   of its QPD. Stronger measurements minimize experimental resources despite increased
   dynamical disturbance.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **100**, 062336'
 doi: 10.1103/PhysRevA.100.062336
 url_pdf: papers/PhysRevA.100.062336.pdf
 links:

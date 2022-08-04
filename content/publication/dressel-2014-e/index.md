@@ -41,7 +41,7 @@ abstract: 'We describe a method to perform any generalized purity-preserving mea
   reduce any multiple-outcome measurement to a sequence of such two-outcome measurements
   and unitary operations. Finally, we consider how to define suitable fidelity measures
   for multiple-outcome generalized measurements.'
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **90**, 032302'
 doi: 10.1103/PhysRevA.90.032302
 url_pdf: papers/PhysRevA.90.032302.pdf
 links:

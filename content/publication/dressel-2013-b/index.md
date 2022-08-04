@@ -47,7 +47,7 @@ abstract: We consider the use of cyclic weak measurements to improve the sensiti
   beams. We show that beam degradation effects can be mitigated via profile flipping
   or Zeno reshaping. The main advantage of such a recycling scheme is an effective
   power increase, while maintaining an amplified deflection.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **88**, 023821'
 doi: 10.1103/PhysRevA.88.023821
 url_pdf: papers/PhysRevA.88.023821.pdf
 links:

@@ -42,7 +42,7 @@ abstract: We investigate the statistical arrow of time for a quantum system bein
   then show that such reversibility is a universal feature of non-projective measurements,
   with forward or backward Janus measurement sequences that are time-reversed inverses
   of each other.
-publication: '*Physical Review Letters*'
+publication: '*Physical Review Letters* **119**, 220507'
 doi: 10.1103/PhysRevLett.119.220507
 url_pdf: papers/PhysRevLett.119.220507.pdf
 links:

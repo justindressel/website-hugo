@@ -54,7 +54,7 @@ abstract: A central feature of quantum mechanics is that a measurement result is
   based on a principle of least action, reveal the optimal route from initial to final
   states, and may inform new quantum control methods for state steering and information
   processing.
-publication: '*Nature*'
+publication: '*Nature* **511**, 570-573'
 doi: 10.1038/nature13559
 url_pdf: papers/arxiv.1403.4992v1.pdf
 links:

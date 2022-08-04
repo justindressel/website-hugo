@@ -47,7 +47,7 @@ abstract: We examine the results of the paper “Precision metrology using weak 
   with general results in the literature concerning Heisenberg scaling metrology.
   We also demonstrate that a von Neumann-type measurement interaction can display
   a similar effect with no system/meter entanglement.
-publication: '*Quantum Studies: Mathematics and Foundations*'
+publication: '*Quantum Studies: Mathematics and Foundations* **2**, 5'
 doi: 10.1007/s40509-015-0036-8
 url_pdf: papers/QuantStud.2.5.pdf
 links:

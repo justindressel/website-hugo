@@ -57,7 +57,7 @@ abstract: "Two topics, evolving rapidly in separate fields, were combined recent
   \ scrambling, depends on a quasiprobability closer to a classical probability. This\
   \ work not only illuminates the OTOC's underpinnings, but also generalizes quasiprobability\
   \ theory and motivates immediate-future weak-measurement challenges."
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **97**, 042105'
 doi: 10.1103/PhysRevA.97.042105
 url_pdf: papers/PhysRevA.97.042105.pdf
 links:

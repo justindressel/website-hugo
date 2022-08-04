@@ -40,7 +40,7 @@ abstract: We introduce contextual values as a generalization of the eigenvalues 
   consistency of the quantum weak value by providing a more general theoretical framework
   and giving several examples of how that framework relates to existing experimental
   and theoretical results.
-publication: '*Physical Review Letters*'
+publication: '*Physical Review Letters* **104**, 240401'
 doi: 10.1103/PhysRevLett.104.240401
 url_pdf: papers/PhysRevLett.104.240401.pdf
 links:

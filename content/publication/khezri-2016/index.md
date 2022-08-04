@@ -47,7 +47,7 @@ abstract: Using circuit QED, we consider the measurement of a superconducting tr
   We then show that the next natural approximation for this sheared state in the eigenbasis
   is a dressed squeezed state, and derive simple evolution equations for such states
   using a hybrid phase-Fock-space description.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **94**, 012347'
 doi: 10.1103/PhysRevA.94.012347
 url_pdf: papers/PhysRevA.94.012347.pdf
 links:

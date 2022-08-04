@@ -48,7 +48,7 @@ abstract: We investigate the determination of a Hamiltonian parameter in a quant
   the quality of the estimation depends on both the strength and duration of the measurement;
   we also discuss the trade-off between the accuracy of the estimate and the sensitivity
   to drift as the estimation duration is varied.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **95**, 012314'
 doi: 10.1103/PhysRevA.95.012314
 url_pdf: papers/PhysRevA.95.012314.pdf
 links:

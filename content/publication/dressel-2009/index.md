@@ -40,7 +40,7 @@ abstract: We explore the nature of the classical propagation of light through me
   results in the bending of a light ray in the medium. We further propose experimental
   techniques to amplify and detect the phenomenon using weak value measurements. Independent
   heuristic and rigorous derivations of this effect are given.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **79**, 013834'
 doi: 10.1103/PhysRevA.79.013834
 url_pdf: papers/PhysRevA.79.013834.pdf
 links:

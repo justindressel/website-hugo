@@ -42,7 +42,7 @@ abstract: 'We show that in the mathematical framework of the quantum theory the 
   a definitive experimental violation of the pigeonhole principle is still needed
   and propose such an implementation using modern quantum computing hardware: a superconducting
   circuit with transmon qubits.'
-publication: '*Physical Review Research*'
+publication: '*Physical Review Research* **2**, 023004'
 doi: 10.1103/PhysRevResearch.2.023004
 url_pdf: papers/PhysRevResearch.2.023004.pdf
 links:

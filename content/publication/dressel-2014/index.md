@@ -42,7 +42,7 @@ abstract: By combining the postulates of macrorealism with Bell-locality, we der
   of an observed violation requires either the failure of Bell-locality, or a preparation-conspiracy
   of finely tuned and nonlocally-correlated noise. Modern superconducting and optical
   systems are poised to implement this test.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **89**, 012125'
 doi: 10.1103/PhysRevA.89.012125
 url_pdf: papers/PhysRevA.89.012125.pdf
 links:

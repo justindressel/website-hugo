@@ -39,7 +39,7 @@ abstract: A recent criticism by Kunstatter et al. [Phys. Lett. A 384, 126686 (20
   of a quantum setup violating the pigeon counting principle [Aharonov et al. PNAS
   113, 532 (2016)] is refuted. The quantum nature of the violation of the pigeonhole
   principle with pre- and postselection is clarified.
-publication: '*Physics Letters A*'
+publication: '*Physics Letters A* **399**, 127287' 
 doi: 10.1016/j.physleta.2021.127287
 url_pdf: papers/JPhysLetA.2021.127287.pdf
 links:

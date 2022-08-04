@@ -47,7 +47,7 @@ abstract: We demonstrate that quantum instruments can provide a unified operatio
   to the various derived quantities, illustrate how detector loss can be included
   naturally, and discuss how the instrumental approach fully generalizes the time-symmetric
   two-vector approach of Aharonov emphet al. to any realistic laboratory situation.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **88**, 022107'
 doi: 10.1103/PhysRevA.88.022107
 url_pdf: papers/PhysRevA.88.022107.pdf
 links:

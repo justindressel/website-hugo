@@ -41,7 +41,7 @@ abstract: We present a stochastic path integral formalism for continuous quantum
   of ordinary differential equations. As an application, we analyze continuous qubit
   measurement in detail and examine the structure of a quantum jump in the Zeno measurement
   regime.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **88**, 042110'
 doi: 10.1103/PhysRevA.88.042110
 url_pdf: papers/PhysRevA.88.042110.pdf
 links:

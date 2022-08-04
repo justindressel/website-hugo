@@ -47,7 +47,7 @@ abstract: 'We analyze the continuous measurement of two non-commuting observable
   interestingly, this model also requires an unphysical noise to emulate the readouts,
   which effectively restricts the ability of an observer to learn information about
   the spin.'
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **94**, 062119'
 doi: 10.1103/PhysRevA.94.062119
 url_pdf: papers/PhysRevA.94.062119.pdf
 links:

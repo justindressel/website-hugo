@@ -49,7 +49,7 @@ abstract: The storage and processing of quantum information are susceptible to e
   results showcase resource-efficient stabilizer measurements in a multi-qubit architecture 
   and demonstrate how continuous error correction codes can address challenges in realizing 
   a fault-tolerant system.
-publication: '*Nature Communications* **13**, 2307 (2022)'
+publication: '*Nature Communications* **13**, 2307'
 doi: 10.1038/s41467-022-29906-0
 url_pdf: papers/s41467-022-29906-0.pdf
 links:

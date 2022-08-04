@@ -52,7 +52,7 @@ abstract: We review and re-examine the description and separation of the spin an
   allows us to discriminate between earlier approaches to the problem. Ourtreatment
   yields the complete and consistent description of the spin and orbital AM of free
   Maxwell fields in both quantum-mechanical and field-theory approaches.
-publication: '*New Journal of Physics*'
+publication: '*New Journal of Physics* **16**, 093037'
 doi: 10.1088/1367-2630/16/9/093037
 url_pdf: papers/NewJPhys.16.093037.pdf
 links:

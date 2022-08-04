@@ -50,7 +50,7 @@ abstract: We construct a novel Lagrangian representation of acoustic field theor
   also includes naturally coupling to sources. The strong analogies between electromagnetism
   and acoustics suggest further productive inquiry, particularly regarding the nature
   of the apparent spacetime symmetries inherent to acoustic fields.
-publication: '*New Journal of Physics*'
+publication: '*New Journal of Physics* **22**, 053050'
 doi: 10.1088/1367-2630/ab7f91
 url_pdf: papers/NewJPhys.22.053050.pdf
 links:

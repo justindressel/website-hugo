@@ -52,7 +52,7 @@ abstract: We present a comprehensive introduction to spacetime algebra that emph
   the use of spacetime algebra as a readily available and mature extension to existing
   vector calculus and tensor methods that can greatly simplify the analysis of fundamentally
   relativistic objects like the electromagnetic field.
-publication: '*Physics Reports*'
+publication: '*Physics Reports* **589**, 1-71'
 doi: 10.1016/j.physrep.2015.06.001
 url_pdf: papers/PhysRep.589.1.pdf
 links:

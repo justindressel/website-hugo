@@ -44,7 +44,7 @@ abstract: We review and clarify the sufficient conditions for uniquely defining 
   under our sufficient conditions for the general case. Finally, a second proposed
   counter-example by Parrott (arXiv:1105.4188v6) is shown not to satisfy the sufficiency
   conditions for the provided theorem.
-publication: '*Journal of Physics A: Mathematical and Theoretical*'
+publication: '*Journal of Physics A: Mathematical and Theoretical* **45**, 015304'
 doi: 10.1088/1751-8113/45/1/015304
 url_pdf: papers/JPhysA.45.015304.pdf
 links:

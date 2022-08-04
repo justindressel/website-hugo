@@ -47,7 +47,7 @@ abstract: A novel method was recently proposed and experimentally realized for c
   Experimental evidence is given that strong interactions outperform weak ones. Our
   results are not limited to neutron interferometry, but can be used in a wide range
   of quantum systems.
-publication: '*Physical Review Letters*'
+publication: '*Physical Review Letters* **118**, 010402'
 doi: 10.1103/PhysRevLett.118.010402
 url_pdf: papers/PhysRevLett.118.010402.pdf
 links:

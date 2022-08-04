@@ -48,7 +48,7 @@ abstract: We present a set of practical benchmarks for N-qubit arrays that econo
   with Google's 9-qubit superconducting chip. The simulations verify the tightness
   of the fidelity bounds and witness nonclassicality for all nine qubits, while also
   showing ample room for improvement in chip performance.
-publication: '*npj Quantum Information*'
+publication: '*npj Quantum Information* **5**, 66'
 doi: 10.1038/s41534-019-0181-8
 url_pdf: papers/npjqi2019.5.66.pdf
 links:

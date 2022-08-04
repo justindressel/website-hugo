@@ -43,7 +43,7 @@ abstract: We refute the widely held belief that the quantum weak value necessari
   that for any Hermite-Gauss mode of a paraxial beam-like detector these expressions
   reduce to the real and imaginary parts of a single system weak value plus an additional
   weak-value-like contribution that only affects the momentum shift.
-publication: '*Physical Review Letters*'
+publication: '*Physical Review Letters* **109**, 230402'
 doi: 10.1103/PhysRevLett.109.230402
 url_pdf: papers/PhysRevLett.109.230402.pdf
 links:

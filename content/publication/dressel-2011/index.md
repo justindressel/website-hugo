@@ -43,7 +43,7 @@ abstract: We generalize the derivation of Leggett-Garg inequalities to systemati
   based on Fresnel reflection. We also point out a non- trivial connection between
   specific two-party Leggett-Garg inequality violations and convex sums of strange
   weak values.
-publication: '*Physical Review Letters*'
+publication: '*Physical Review Letters* **106**, 040402'
 doi: 10.1103/PhysRevLett.106.040402
 url_pdf: papers/PhysRevLett.106.040402.pdf
 links:

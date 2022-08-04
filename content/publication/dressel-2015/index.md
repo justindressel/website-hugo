@@ -42,7 +42,7 @@ abstract: Weak values arise experimentally as conditioned averages of weak (nois
   as both a conditioned observable estimation and a dynamical variable, and clarify
   why classical disturbance models will be insufficient to explain the weak value
   unless they can also simulate other quantum interference phenomena.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **91**, 032116'
 doi: 10.1103/PhysRevA.91.032116
 url_pdf: papers/PhysRevA.91.032116.pdf
 links:

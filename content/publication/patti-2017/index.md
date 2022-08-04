@@ -46,7 +46,7 @@ abstract: The state of a continuously monitored qubit evolves stochastically, ex
   delay, and show that the feedback delay has the most significant negative effect
   on the feedback protocol. Setting the measurement collapse timescale to be long
   compared to the feedback delay yields the best stabilization.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **96**, 022311'
 doi: 10.1103/PhysRevA.96.022311
 url_pdf: papers/PhysRevA.96.022311.pdf
 links:

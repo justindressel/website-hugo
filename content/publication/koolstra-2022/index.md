@@ -63,7 +63,7 @@ abstract: Weak measurements of a superconducting qubit produce noisy voltage sig
   also correctly reconstructs evolution for an unknown drive with rapid modulation. Our work 
   enables new applications of weak measurements with faster or initially unknown qubit dynamics, 
   such as the diagnosis of coherent errors in quantum gates.
-publication: '*Physical Review X* **12**, 031017 (2022)'
+publication: '*Physical Review X* **12**, 031017'
 doi: 10.1103/PhysRevX.12.031017
 url_pdf: papers/PhysRevX.12.031017.pdf
 links:

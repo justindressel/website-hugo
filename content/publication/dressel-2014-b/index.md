@@ -51,7 +51,7 @@ abstract: We revisit the definitions of error and disturbance recently used in e
   naturally involve the retrodictive and interdictive states for that outcome, and
   produce complementarity and error-disturbance inequalities that have the same form
   as the traditional Heisenberg relation.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **89**, 022106'
 doi: 10.1103/PhysRevA.89.022106
 url_pdf: papers/PhysRevA.89.022106.pdf
 links:

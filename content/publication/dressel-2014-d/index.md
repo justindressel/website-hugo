@@ -47,7 +47,7 @@ abstract: Since its introduction 25 years ago, the quantum weak value has gradua
   it provides a measurable window into nonclassical features of quantum mechanics.
   In this selective review, a single experimental configuration to discuss and clarify
   each of these applications is used.
-publication: '*Reviews of Modern Physics*'
+publication: '*Reviews of Modern Physics* **86**, 307'
 doi: 10.1103/RevModPhys.86.307
 url_pdf: papers/RevModPhys.86.307.pdf
 links:

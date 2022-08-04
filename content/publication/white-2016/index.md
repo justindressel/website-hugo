@@ -60,7 +60,7 @@ abstract: Weak measurement has provided new insight into the nature of quantum m
   qubits. By correlating the results of weak ancilla measurements with subsequent
   projective readout, we achieve a violation of the BLGI with 27 standard deviations
   of certainty.
-publication: '*npj Quantum Information*'
+publication: '*npj Quantum Information* **2**, 15022'
 doi: 10.1038/npjqi.2015.22
 url_pdf: papers/npjqi2016.2.15022.pdf
 links:

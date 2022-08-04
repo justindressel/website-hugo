@@ -46,7 +46,7 @@ abstract: In modern circuit QED architectures, superconducting transmon qubits a
   The rate of these jumps becomes significant if the resonator decay is comparable
   to or faster than the qubit-qubit detuning, thus significantly degrading the measurement
   fidelity in a manner reminiscent of energy relaxation processes.
-publication: '*Physical Review A*'
+publication: '*Physical Review A* **92**, 052306'
 doi: 10.1103/PhysRevA.92.052306
 url_pdf: papers/PhysRevA.92.052306.pdf
 links:

@@ -45,7 +45,7 @@ abstract: The quantum Zeno effect is the suppression of Hamiltonian evolution by
   with respect to the target state. Our dynamical measurement operator technique offers
   a new tool for numerous forms of quantum feedback protocols, including adaptive
   measurements and rapid state purification.
-publication: '*Physical Review Letters*'
+publication: '*Physical Review Letters* **120**, 020505'
 doi: 10.1103/PhysRevLett.120.020505
 url_pdf: papers/PhysRevLett.120.020505.pdf
 links:
