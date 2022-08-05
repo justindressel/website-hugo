@@ -4,7 +4,7 @@
 title: Preserving entanglement during weak measurement demonstrated with a violation
   of the Bell--Leggett--Garg inequality
 subtitle: ''
-summary: ''
+summary: 'Scientists in the US have developed a method to evaluate the properties of complex quantum states without causing their destruction. A team at the University of California Santa Barbara led by John Martinis verified that the properties of entangled quantum states can be probed using weak measurements. By extracting only small parts of quantum information in a single measurement, weak measurements avoid the problem whereby quantum states are destroyed when the information contained in them is measured. Although this has been successfully demonstrated for single quantum states, it remained unclear if weak measurements were compatible with more complicated entangled systems. By implementing an experimental test that verifies with high accuracy the preservation of those entangled states in measurements, the researchers have made it possible to probe the properties of qubits in complex quantum computing schemes.'
 authors:
 - Theodore C White
 - Josh Y Mutus
@@ -31,7 +31,7 @@ tags: []
 categories: []
 date: '2016-02-01'
 lastmod: 2022-01-25T16:51:34-08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
