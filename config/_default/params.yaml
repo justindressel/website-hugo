@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: earth
   theme_night: customdark
-  font: rose
+  font: classic
   font_size: m
 
 # SEO
