@@ -3,16 +3,16 @@ name = "Custom Dark"
 
 [dark]
   # Primary
-  primary = "rgb(0, 136, 204)"
+  primary = "#707070"
 
   # Menu
   menu_primary = "rgb(33, 37, 41)"
-  menu_text = "rgb(0, 136, 204)"
+  menu_text = "#707070"
   menu_text_active = "rgba(255,255,255,1)"
   menu_title = "rgb(153, 153, 153)"
 
   # Links
-  link = "rgb(0, 136, 204)"
+  link = "#707070"
   link_hover = "#000"
   link_decoration = "underline"
 
