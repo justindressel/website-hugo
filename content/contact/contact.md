@@ -56,6 +56,9 @@ design:
 # Text goes below yaml brackets
 ---
 
+| {{< cta cta_text="**PI Profile**" cta_link="/authors/justin-dressel" cta_new_tab="false" >}} | {{< cta cta_text="**Photography Homepage**" cta_link="https://photos.justindressel.com" cta_new_tab="true" >}} |
+| --- | --- |
+
 > **Justin Dressel, Ph.D.**  
 > Associate Professor of Physics    
 > [Schmid College of Science and Technology](http://www.chapman.edu/scst)    

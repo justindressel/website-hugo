@@ -49,7 +49,7 @@ education:
 social:
 - icon: laptop-house
   icon_pack: fas
-  link: 'https://www.justindressel.com'
+  link: 'https://photos.justindressel.com'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:dressel@chapman.edu'
