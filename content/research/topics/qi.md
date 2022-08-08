@@ -9,7 +9,7 @@ profile: false
 
 ## Quantum Computing with Superconducting Qubits
 
-{{<figure src=RabiTrajectories.jpg" numbered="false" caption="Superconducting transmon quantum bits are measured via their dispersive interaction with a neighboring microwave resonator. The interaction produces a state-dependent phase shift of a continuous microwave field, which can be detected as a continuous but noisy voltage signal using a homodyne measurement of the reflected microwave field. This continuous noisy voltage produces stochastic quantum trajectories, which have rich statistics. {{% staticref "/papers/arxiv.1403.4992v1.pdf" "newtab" %}}Nature **511**, 570 (2014){{% /staticref %}}" >}}
+ {{% staticref "/papers/arxiv.1403.4992v1.pdf" "newtab" %}}{{<figure src=RabiTrajectories.jpg" numbered="false" caption="Superconducting transmon quantum bits are measured via their dispersive interaction with a neighboring microwave resonator. The interaction produces a state-dependent phase shift of a continuous microwave field, which can be detected as a continuous but noisy voltage signal using a homodyne measurement of the reflected microwave field. This continuous noisy voltage produces stochastic quantum trajectories, which have rich statistics.Nature **511**, 570 (2014)" >}}{{% /staticref %}}
 
 - **Continuous qubit trajectories**
   In circuit QED we infer the state of a quantum bit (<i>qubit</i>) by making a quadrature measurement on an interacting microwave resonator field. Achieving high-fidelity state-tracking from the collected noisy quadrature signal is a necessary prerequisite for more sophisticated quantum information tasks.
