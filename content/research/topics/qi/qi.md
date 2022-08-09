@@ -6,6 +6,9 @@ share: false
 profile: false  
 weight: 20
 
+design:
+  spacing:
+    padding: ["20px", 0, "20px", 0]
 ---
 
 - **Continuous qubit trajectories**\
