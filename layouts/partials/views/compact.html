@@ -35,12 +35,6 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
     <div class="stream-meta article-metadata">
-      {{ if $item.Params.publication_short }}
-        {{- $item.Params.publication_short | markdownify -}}
-      {{ else if $item.Params.publication }}
-        {{- $item.Params.publication | markdownify -}}
-      {{ end }}
-      ({{- $item.Date.Format "2006" -}}).
       {{ if eq $item.Type "event" }}
       <div>
         <span>
@@ -60,6 +54,12 @@
       {{ else if not $show_authors_only }}
         {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
       {{ end }}
+      {{ if $item.Params.publication_short }}
+        {{- $item.Params.publication_short | markdownify -}}
+      {{ else if $item.Params.publication }}
+        {{- $item.Params.publication | markdownify -}}
+      {{ end }}
+      ({{- $item.Date.Format "2006" -}}).
       <p>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</p>
     </div>
 
