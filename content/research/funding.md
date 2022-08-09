@@ -1,5 +1,6 @@
 ---
 widget: experience
+title: Funding Sources
 headless: true
 weight: 90
 
@@ -53,4 +54,3 @@ experience:
 
 ---
 
-## Funding Sources
