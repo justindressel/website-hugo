@@ -14,3 +14,5 @@ Congratulations to {{% mention "shiva-barzili" %}} for defending her Ph.D. thesi
 
 Her thesis, [Quantum State Estimation and Tracking for Superconducting Processors Using Machine Learning]({{< relref "/publication/barzili-2021-thesis" >}}), was well-received by the commitee and presents some intriguing results pertaining to the automated learning of quantum systems.
 
+{{< cite page="/publication/barzili-2021-thesis" view="3" >}}
+

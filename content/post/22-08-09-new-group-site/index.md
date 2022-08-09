@@ -1,6 +1,6 @@
 ---
 title: New Website Design
-date: 2022-04-26
+date: 2022-08-09
 reading_time: false  
 share: false  
 profile: true  
@@ -8,7 +8,7 @@ image:
   focal_point: "top"
 ---
 
-The group website has now been migrated to a more modern design.
+The group website has now been migrated to a more modern and mobile-friendly design.
 
 <!--more-->
 
