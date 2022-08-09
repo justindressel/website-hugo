@@ -16,8 +16,8 @@ design:
      
 
 |    {{< figure src="FeedbackCircuit.png" title="Superconducting transmon quantum bits are measured via their dispersive interaction with a neighboring microwave resonator. " >}} |    {{< figure src="CDRWigner.gif" title="The interaction produces a state-dependent phase shift of a continuous microwave field. This phase shift can be detected as a continuous but noisy voltage signal using a homodyne measurement of the leaked and reflected microwave field." >}} |  
-|    {{< figure src="RabiTrajectories.png" title="Filtering the noisy voltage signal reconstructs the stochastic quantum state evolution influenced by the continuous observation, known as a quantum trajectory." >}} | |
 | --- | --- |  <br/>
+    {{< figure src="RabiTrajectories.png" title="Filtering the noisy voltage signal reconstructs the stochastic quantum state evolution influenced by the continuous observation, known as a quantum trajectory." >}}
 
 
 - **Quantum feedback and control**\
