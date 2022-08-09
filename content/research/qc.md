@@ -13,6 +13,7 @@ design:
 
 - **Continuous qubit trajectories**\
     In circuit QED we infer the state of a quantum bit (_qubit_) by making a quadrature measurement on an interacting microwave resonator field. Achieving high-fidelity state-tracking from the collected noisy quadrature signal is a necessary prerequisite for more sophisticated quantum information tasks.  
+    
     | {{< figure src="FeedbackCircuit.png" title="Superconducting transmon quantum bits are measured via their dispersive interaction with a neighboring microwave resonator. " >}} |  | {{< figure src="CDRWigner.gif" title="The interaction produces a state-dependent phase shift of a continuous microwave field. This phase shift can be detected as a continuous but noisy voltage signal using a homodyne measurement of the leaked and reflected microwave field." >}} |  
     | --- | --- | --- |  <br/>
     {{< figure src="RabiTrajectories.png" title="Filtering the noisy voltage signal reconstructs the stochastic quantum state evolution influenced by the continuous observation, known as a quantum trajectory." >}}

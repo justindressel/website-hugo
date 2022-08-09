@@ -18,9 +18,9 @@ design:
 
 
 - **Weak Measurements**\
-  When almost no information is gathered by a detector making a measurement, the quantum state is almost entirely preserved.  Nevertheless, taking a sufficiently large sample of data still permits the same _average_ infomation to be extracted as textbook projective measurements that fully collapses the state.  
-
-{{< cite page="/publication/white-2016" view="2" >}}
+    When almost no information is gathered by a detector making a measurement, the quantum state is almost entirely preserved.  Nevertheless, taking a sufficiently large sample of data still permits the same _average_ infomation to be extracted as textbook projective measurements that fully collapses the state.  
+    
+    {{< cite page="/publication/white-2016" view="2" >}}
 
 
 - **Quantum trajectories**\
