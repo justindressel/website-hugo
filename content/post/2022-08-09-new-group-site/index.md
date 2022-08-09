@@ -1,6 +1,7 @@
 ---
 title: New Website Design
 date: 2022-08-09
+show_date: false
 reading_time: false  
 share: false  
 profile: true  
