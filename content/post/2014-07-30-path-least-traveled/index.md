@@ -1,7 +1,7 @@
 ---
 title: The Path Less Traveled
 date: 2014-07-30
-lastMod = 2014-07-30T00:00:00-00:00 
+lastMod: 2014-07-30T00:00:00-00:00 
 reading_time: false  
 share: false  
 profile: true  
