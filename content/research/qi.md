@@ -17,7 +17,7 @@ design:
 
 
 - **Weak Measurements**\
-    When almost no information is gathered by a detector making a measurement, the quantum state is almost entirely preserved.  Nevertheless, taking a sufficiently large sample of data still permits the same _average_ infomation to be extracted as textbook projective measurements that fully collapses the state. <br/>\ 
+    When almost no information is gathered by a detector making a measurement, the quantum state is almost entirely preserved.  Nevertheless, taking a sufficiently large sample of data still permits the same _average_ infomation to be extracted as textbook projective measurements that fully collapses the state. <br/>\
     {{< cite page="/publication/white-2016" view="2" >}}
 
 
@@ -27,7 +27,7 @@ design:
 
 
 - **Conditioned Statistics**\
-    Many strange features of quantum mechanics only manifest when several measurements are correlated. Examples include quantum erasure, violations of local realism via Bell inequalities, violations of macrorealism via Leggett-Garg inequalities, anomalously large conditioned averages (including <i>weak values</i>), and even the bunching and anti-bunching behavior of particle statistics. <br/>\ 
+    Many strange features of quantum mechanics only manifest when several measurements are correlated. Examples include quantum erasure, violations of local realism via Bell inequalities, violations of macrorealism via Leggett-Garg inequalities, anomalously large conditioned averages (including <i>weak values</i>), and even the bunching and anti-bunching behavior of particle statistics. <br/>\
     {{< cite page="/publication/weber-2014" view="2" >}}
 
 
