@@ -30,6 +30,9 @@ module:
 ############################
 
 enableGitInfo: false
+frontmatter:
+  lastmod:
+  - date
 summaryLength: 30
 paginate: 10
 enableEmoji: true
