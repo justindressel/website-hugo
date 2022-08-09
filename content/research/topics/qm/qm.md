@@ -4,7 +4,7 @@ date: 2022-04-26
 reading_time: false  
 share: false  
 profile: false  
-weight: 10
+weight: 20
 
 design:
   spacing:
@@ -17,16 +17,16 @@ design:
 {{< cite page="/publication/dressel-2013" view="3" >}}
 
 
-- **Quantum trajectories**\
-  Discretizing time into small pieces and applying both natural state evolution and measurement-induced state updates at each time step yields a quantum trajectory.  Generally these state trajectories show a competition between the natural evolution from the Schroedinger equation and the stochastic evolution from the measurement itself.  
-
-{{< figure src="RabiTrajectories.png" title="Filtering the noisy voltage signal of the leaked microwave field produces stochastic quantum trajectories. [Nature **511**, 570 (2014)]" >}}
-
-
 - **Weak Measurements**\
-  When almost no information is gathered by a detector making a measurement, the quantum state is almost entirely preserved.  Nevertheless, taking a sufficiently large sample of data still permits the same average infomation to be extracted as a textbook measurement that fully collapses the state.  
+  When almost no information is gathered by a detector making a measurement, the quantum state is almost entirely preserved.  Nevertheless, taking a sufficiently large sample of data still permits the same _average_ infomation to be extracted as textbook projective measurements that fully collapses the state.  
 
 {{< cite page="/publication/white-2016" view="3" >}}
+
+
+- **Quantum trajectories**\
+  Discretizing time into small pieces and applying both natural state evolution and measurement-induced state updates at each time step yields a _quantum trajectory_. Generally these state trajectories show a competition between the natural evolution from the Schroedinger equation and the stochastic evolution from the measurement itself. Stronger measurements per unit time rapidly collapse the state and pin it near the measurement eigenstates, between which _quantum jumps_ can then be tracked. Weaker measurements per unit time minimally perturb the natural evolution, allowing temporal correlations of this _coherent evolution_ to be faithfully extracted.  
+
+{{< cite page="/publication/garcia-pintos-2017" view="3" >}}
 
 
 - **Conditioned Statistics**\
