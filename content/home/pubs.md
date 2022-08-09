@@ -17,7 +17,7 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 0
   order: desc
 design:
   spacing:
