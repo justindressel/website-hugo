@@ -3,7 +3,6 @@ widget: experience
 headless: true
 weight: 90
 
-title: Funding Sources
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
@@ -53,3 +52,5 @@ experience:
       Subcontract amount: $300,000
 
 ---
+
+# Funding Sources
