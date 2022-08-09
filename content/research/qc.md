@@ -15,7 +15,7 @@ design:
     In circuit QED we infer the state of a quantum bit (_qubit_) by making a quadrature measurement on an interacting microwave resonator field. Achieving high-fidelity state-tracking from the collected noisy quadrature signal is a necessary prerequisite for more sophisticated quantum information tasks. <br/><br/>
      
 
-| {{< figure src="FeedbackCircuit.png" title="Superconducting transmon quantum bits are measured via their dispersive interaction with a neighboring microwave resonator. " >}} | {{< figure src="CDRWigner.gif" title="The interaction produces a state-dependent phase shift of a continuous microwave field. This phase shift can be detected as a continuous but noisy voltage signal using a homodyne measurement of the leaked and reflected microwave field." >}} |  
+| {{< figure src="FeedbackCircuit.png" title="Superconducting transmon quantum bits are measured via their dispersive interaction with a neighboring microwave resonator." height="200px" >}} | {{< figure src="CDRWigner.gif" title="The interaction produces a state-dependent phase shift of a continuous microwave field. This phase shift can be detected as a continuous but noisy voltage signal using a homodyne measurement of the leaked and reflected microwave field." height="200px" >}} |  
 | --- | --- |  
 
 <br/>
@@ -36,4 +36,8 @@ design:
     Determining how well one is modeling the physical system in the lab is not a trivial matter. Modern tomographic methods under development use compressive sensing and adaptive estimation techniques to reduce the amount of data that one needs to collect, and reduce the computational resources required to reconstruct the estimates. <br/>\
     {{< cite page="/publication/cortez-2017" view="2" >}}
 
+
+- **Machine Learning for Device Characterization**\
+    As chips become more complex in the laboratory, calibration and tune-up becomes an increasingly daunting task. Modern machine learning methods offer novel solutions for auto-calibrating device parameters and tracking dynamics occuring during a computational run. <br/>\
+    {{< cite page="publication/koolstra-2022" view="2" >}}
 
