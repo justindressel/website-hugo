@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Spin Group of Prof. Justin Dressel # Website name
-baseurl: '' # Website URL
+baseurl: 'https://justindressel.com' # Website URL
 
 ############################
 ## LANGUAGE
