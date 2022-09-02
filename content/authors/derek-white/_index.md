@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/` and link here 
 - icon: cv
   icon_pack: ai
-  link: files/DWhite_CV.pdf
+  link: files/dwhite-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "yourgravataremail@chapman.edu"
