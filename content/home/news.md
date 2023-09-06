@@ -5,6 +5,7 @@ headless: true  # This file represents a page section.
 title: Recent News
 subtitle: ''
 weight: 40
+draft: true
 
 content:
   # Filter content to display
