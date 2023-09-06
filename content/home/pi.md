@@ -6,7 +6,7 @@ weight: 10
 
 title: Welcome to the <br/> **Spin Group**
 
-hero_media: 'group-meeting-2-5-21.png'
+hero_media: 'spiral_staircase.jpg'
 
 cta:
   url: '/people'
