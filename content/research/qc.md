@@ -4,7 +4,6 @@ date: 2022-04-26
 reading_time: false  
 share: false  
 profile: false  
-type: book
 weight: 10
 
 design:
