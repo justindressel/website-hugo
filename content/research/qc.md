@@ -1,10 +1,11 @@
 ---
-#title: Quantum Computation with Superconducting Qubits
+title: Quantum Computation with Superconducting Qubits
 date: 2022-04-26
 reading_time: false  
 share: false  
 profile: false  
-#weight: 10
+type: book
+weight: 10
 
 design:
   spacing:

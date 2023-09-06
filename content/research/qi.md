@@ -1,10 +1,11 @@
 ---
-#title: Quantum Information and Measurement Theory
+title: Quantum Information and Measurement Theory
 date: 2022-04-26
 reading_time: false  
 share: false  
 profile: false  
-#weight: 20
+type: book
+weight: 20
 
 design:
   spacing:

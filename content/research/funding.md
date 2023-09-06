@@ -2,6 +2,7 @@
 widget: experience
 title: Funding Sources
 headless: true
+type: book
 weight: 90
 
 # Date format
