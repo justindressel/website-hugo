@@ -5,5 +5,8 @@ date: 2023-09-06
 
 # Book type
 type: book
+search: false
 
 ---
+
+{{< list_children >}}

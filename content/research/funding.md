@@ -1,7 +1,8 @@
 ---
-widget: experience
+#widget: experience
 title: Funding Sources
-headless: true
+#headless: true
+type: book
 weight: 90
 
 #   Add/remove as many `experience` blocks below as you like.
