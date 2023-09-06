@@ -1,10 +1,11 @@
 ---
-title: Foundations of Physics
+#title: Foundations of Physics
 date: 2022-04-26
 reading_time: false  
 share: false  
 profile: false  
-weight: 30
+#weight: 30
+type: book
 
 design:
   spacing:
