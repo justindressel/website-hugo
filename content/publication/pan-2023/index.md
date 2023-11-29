@@ -21,9 +21,9 @@ authors:
 - Lev Vaidman
 tags: []
 categories: []
-date: '2023-09-06'
+date: '2023-09-12'
 lastmod: 2023-09-06:51:27-08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -47,10 +47,14 @@ publishDate: '2022-01-28T00:18:20.804674Z'
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types:
-- '3'
+- '2'
 abstract: We report an experimental realization of a modified counterfactual communication protocol that eliminates the dominant environmental trace left by photons passing through the transmission channel. Compared to Wheeler's criterion for inferring past particle paths, as used in prior protocols, our trace criterion provide stronger support for the claim of the counterfactuality of the communication. We verify the lack of trace left by transmitted photons via tagging the propagation arms of an interferometric device by distinct frequency-shifts and finding that the collected photons have no frequency shift which corresponds to the transmission channel. As a proof of principle, we counterfactually transfer a quick response code image with sufficient fidelity to be scanned with a cell phone.
-publication: ''
+publication: '*npj Quantum Information* **9**, 87'
+doi: 10.1038/s41534-023-00756-y
+url_pdf: papers/npjqi2023.9.87.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2308.10165
+- name: URL
+  url: https://www.nature.com/articles/s41534-023-00756-y
 ---
