@@ -16,8 +16,8 @@ authors:
 - Lev Vaidman
 tags: []
 categories: []
-date: '2023-11-06'
-lastmod: 2023-11-06:51:27-08:00
+date: '2024-02-24'
+lastmod: 2024-02-24:51:27-08:00
 featured: false
 draft: false
 
@@ -36,17 +36,21 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-11-06T00:18:20.804674Z'
+publishDate: '2024-02-24T00:18:20.804674Z'
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types:
-- '3'
+- '2'
 abstract: >
-  Yuan and Feng [Eur. Phys. J. Plus 138:70, 2023] recently proposed a modification of the nested Mach-Zehnder interferometer experiment performed by Danan et al. [Phys. Rev. Lett. 111:240402, 2013] and argued that photons give "contradictory" answers about where they have been, when traces are locally imprinted on them in different ways. They concluded that their results are comprehensible from what they call the "three-path interference viewpoint", but difficult to explain from the "discontinuous trajectory" viewpoint advocated by Danan et al. We argue that the weak trace approach (the basis of the "discontinuous trajectory" viewpoint) provides a consistent explanation of the Yuan-Feng experiment. The contradictory messages of the photons are just another example of photons lying about where they have been when the experimental method of Danan et al. is applied in an inappropriate setup.
-publication: ''
+  Yuan and Feng (Eur. Phys. J. Plus 138:70, 2023) recently proposed a modification of the nested Mach–Zehnder interferometer experiment performed by Danan et al. (Phys. Rev. Lett. 111:240402, 2013) and argued that photons give “contradictory” answers about where they have been, when traces are locally imprinted on them in different ways. They concluded that their results are comprehensible from what they call the “three-path interference viewpoint,” but difficult to explain from the “discontinuous trajectory” viewpoint advocated by Danan et al. We argue that the weak trace approach (the basis of the “discontinuous trajectory” viewpoint) provides a consistent explanation of the Yuan–Feng experiment. The contradictory messages of the photons are just another example of photons lying about where they have been when the experimental method of Danan et al. is applied in an inappropriate setup.
+publication: '*The European Physical Journal Plus* **139**, 181'
+doi: 10.1140/epjp/s13360-023-04818-0
+url_pdf: papers/s13360-023-04818-0.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2311.03525
+- name: URL
+  url: https://link.springer.com/article/10.1140/epjp/s13360-023-04818-0
 ---
