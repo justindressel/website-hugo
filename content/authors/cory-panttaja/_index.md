@@ -11,8 +11,7 @@ organizations:
   url: https://www.chapman.edu/physics
 
 # Short bio (displayed in user profile at end of posts)
-# bio: 
-Cory is a first year physics major at Chapman University, with interest in theoretical physics and cosmology, as well as particapting heavily in the arts, such as theatre, painting, and singing. With physics as well as their artistic pursuits they hope to better understand our world and how we live in it as a global community.   
+bio: Interested in theoretical physics and cosmology, as well as the arts, such as theatre, painting, and singing. 
 
 interests:
 - Painting
@@ -65,3 +64,4 @@ user_groups:
 #- Undergraduate Alumni
 ---
 
+Cory is a first year physics major at Chapman University, with interest in theoretical physics and cosmology, as well as particapting heavily in the arts, such as theatre, painting, and singing. With physics as well as their artistic pursuits they hope to better understand our world and how we live in it as a global community.   
