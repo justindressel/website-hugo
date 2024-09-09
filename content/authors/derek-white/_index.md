@@ -3,7 +3,7 @@
 title: Derek White
 
 # Role/position
-role: Graduate Student
+role: Graduate Student (Advised by Dr. John Howell)
 
 # Organizations/Affiliations
 organizations:
