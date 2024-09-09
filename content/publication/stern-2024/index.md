@@ -44,7 +44,8 @@ publishDate: '2024-09-09T00:18:20.804674Z'
 publication_types:
 - '2'
 abstract: >
-  Superoscillatory, band-limited functions oscillate faster than their fastest Fourier component. Superoscillations have been intensively explored recently as they give rise to many out-of-the-spectrum phenomena entailing both fundamental and applied significance. We experimentally demonstrate a form of superoscillations which is manifested by light apparently coming from a source located far away from the actual one. These superoscillations are sensed through sharp transverse shifts in the local wave vector at the minima of a pinhole diffraction pattern. We call this phenomenon “optical ventriloquism.”publication: '*Physics Letters A* **470**, 128782'
+  Superoscillatory, band-limited functions oscillate faster than their fastest Fourier component. Superoscillations have been intensively explored recently as they give rise to many out-of-the-spectrum phenomena entailing both fundamental and applied significance. We experimentally demonstrate a form of superoscillations which is manifested by light apparently coming from a source located far away from the actual one. These superoscillations are sensed through sharp transverse shifts in the local wave vector at the minima of a pinhole diffraction pattern. We call this phenomenon "optical ventriloquism."
+publication: '*Physics Review A* **109**, 012206 (2024)'
 doi: 10.1103/PhysRevA.109.012206
 url_pdf: papers/PhysRevA.109.012206.pdf
 links:
