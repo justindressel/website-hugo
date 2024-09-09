@@ -41,7 +41,7 @@ publication_types:
 - '2'
 abstract: >
   Hatim Salih discovered a method for transferring a quantum state with no particles present in the transmission channel, which he named counterportation. Recently (Salih 2023 Quantum Sci. Technol.8 025016), he presented a feasible procedure for its implementation. The modification of the protocol by Aharonov and Vaidman, adopted by Salih, justifies the claim that no photons were present in the transmission channel during counterportation. We argue, however, that there is an error in this paper. The analysis of a simplified protocol, which questions the validity of the two-state vector formalism description of the photon presence in the communication channel, is incorrect.
-publication: '*Quantum Science and Technology* **9**, 018001 (2024)'
+publication: '*Quantum Science and Technology* **9**, 018001'
 doi: 10.1088/2058-9565/ad1716
 url_pdf: papers/Dressel_2024_Quantum_Sci_Technol._9_018001.pdf
 links:
